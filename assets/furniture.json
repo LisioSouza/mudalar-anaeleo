@@ -1,4 +1,4 @@
-{
+﻿{
   "phone": "5585999539681",
   "items": [
     {
@@ -71,16 +71,6 @@
       ]
     },
     {
-      "id": 9,
-      "nome": "Cadeira amarela",
-      "descricao": "Cadeiras amarelas design.",
-      "valor": "R$ 0,00",
-      "imagens": [
-        "cadeira-amarela.jpeg",
-        "cadeira-amarela2.jpeg"
-      ]
-    },
-    {
       "id": 10,
       "nome": "Cadeira Tramontina vermelha",
       "descricao": "Cadeira Tramontina Vermelha Sofia.",
@@ -139,21 +129,21 @@
       ]
     },
     {
-      "id": 19,
-      "nome": "Estante",
-      "descricao": "MDF cinza. Obs: leve estufado no rodapé. Dimensões: 110cm x 73cm x 38cm(p)",
-      "valor": "R$ 165,00",
-      "imagens": [
-        "estante-m.jpeg"
-      ]
-    },
-    {
       "id": 21,
       "nome": "Freezer vertical",
       "descricao": "Brastemp Flex Frost Free de 228 Litros, aço escovado.",
       "valor": "R$ 2.000,00",
       "imagens": [
         "freezer.jpeg"
+      ]
+    },
+    {
+      "id": 22,
+      "nome": "Lixeira de banheiro",
+      "descricao": "Brinox 5 litros",
+      "valor": "R$ 25,00",
+      "imagens": [
+        "lix.jpeg"
       ]
     },
     {
@@ -216,15 +206,6 @@
       ]
     },
     {
-      "id": 30,
-      "nome": "Purificador de água",
-      "descricao": "Purificador superzon Softfit, cor preto água natural e gelada.",
-      "valor": "R$ 480,00",
-      "imagens": [
-        "purificador.jpeg"
-      ]
-    },
-    {
       "id": 31,
       "nome": "Cama Queen",
       "descricao": "Colchão Native Bambu + Base.",
@@ -245,101 +226,29 @@
     },
     {
       "id": 33,
-      "nome": "Refri",
-      "descricao": "Descreva o móvel, medidas e estado de conservação.",
-      "valor": "R$ 0,00",
+      "nome": "Refrigerador",
+      "descricao": "Econavi Inverter Panasonic 483 litros",
+      "valor": "R$ 3.000,00",
       "imagens": [
         "refri.jpeg"
       ]
     },
     {
-      "id": 5,
-      "nome": "Bate2",
-      "descricao": "Descreva o móvel, medidas e estado de conservação.",
-      "valor": "R$ 0,00",
-      "imagens": [
-        "bate2.jpeg"
-      ]
-    },
-    {
-      "id": 12,
-      "nome": "Batedeira",
-      "descricao": "Descreva o móvel, medidas e estado de conservação.",
-      "valor": "R$ 0,00",
-      "imagens": [
-        "batedeira.jpeg"
-      ]
-    },
-    {
-      "id": 16,
-      "nome": "Escada",
-      "descricao": "Descreva o móvel, medidas e estado de conservação.",
-      "valor": "R$ 0,00",
-      "imagens": [
-        "escada.jpeg"
-      ]
-    },
-    {
-      "id": 17,
-      "nome": "Estante",
-      "descricao": "Descreva o móvel, medidas e estado de conservação.",
-      "valor": "R$ 0,00",
-      "imagens": [
-        "estante.jpeg"
-      ]
-    },
-    {
-      "id": 20,
-      "nome": "Laca",
-      "descricao": "Descreva o móvel, medidas e estado de conservação.",
-      "valor": "R$ 0,00",
-      "imagens": [
-        "laca.jpeg"
-      ]
-    },
-    {
-      "id": 22,
-      "nome": "Lix",
-      "descricao": "Descreva o móvel, medidas e estado de conservação.",
-      "valor": "R$ 0,00",
-      "imagens": [
-        "lix.jpeg"
-      ]
-    },
-    {
-      "id": 24,
-      "nome": "Tabua",
-      "descricao": "Descreva o móvel, medidas e estado de conservação.",
-      "valor": "R$ 0,00",
-      "imagens": [
-        "tabua.jpeg"
-      ]
-    },
-    {
       "id": 34,
       "nome": "Tapete",
-      "descricao": "Descreva o móvel, medidas e estado de conservação.",
-      "valor": "R$ 0,00",
+      "descricao": "Cinza. Dimensões: 2m x 3m",
+      "valor": "R$ 280,00",
       "imagens": [
         "tapete.jpeg"
       ]
     },
     {
       "id": 35,
-      "nome": "Tv",
-      "descricao": "Descreva o móvel, medidas e estado de conservação.",
-      "valor": "R$ 0,00",
+      "nome": "TV",
+      "descricao": "Smart TV Philips 50''",
+      "valor": "R$ 1.300,00",
       "imagens": [
         "tv.jpeg"
-      ]
-    },
-    {
-      "id": 36,
-      "nome": "Ventilador",
-      "descricao": "Descreva o móvel, medidas e estado de conservação.",
-      "valor": "R$ 0,00",
-      "imagens": [
-        "ventilador.jpeg"
       ]
     }
   ]
