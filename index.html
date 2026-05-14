@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html class="light" lang="pt-br">
+<head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&amp;family=Be+Vietnam+Pro:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            "colors": {
+                    "surface-bright": "#fff8f6",
+                    "on-surface": "#1e1b1a",
+                    "secondary-fixed": "#fdddb9",
+                    "tertiary-fixed-dim": "#d0c5b9",
+                    "outline": "#87726e",
+                    "inverse-on-surface": "#f7efed",
+                    "on-surface-variant": "#54433f",
+                    "surface-tint": "#944836",
+                    "on-tertiary-fixed": "#201b13",
+                    "background": "#fff8f6",
+                    "secondary": "#715a3e",
+                    "surface-container": "#f4ecea",
+                    "on-error-container": "#93000a",
+                    "surface-container-low": "#faf2f0",
+                    "error": "#ba1a1a",
+                    "secondary-fixed-dim": "#e0c29f",
+                    "primary-fixed": "#ffdad2",
+                    "on-tertiary-container": "#fffbff",
+                    "primary-container": "#af5e4a",
+                    "surface-container-high": "#eee6e4",
+                    "surface-variant": "#e9e1df",
+                    "on-background": "#1e1b1a",
+                    "on-tertiary-fixed-variant": "#4d463d",
+                    "on-primary": "#ffffff",
+                    "on-primary-container": "#fffbff",
+                    "on-primary-fixed-variant": "#763221",
+                    "secondary-container": "#fdddb9",
+                    "on-secondary-container": "#786044",
+                    "inverse-primary": "#ffb4a3",
+                    "on-secondary-fixed-variant": "#584329",
+                    "tertiary-fixed": "#ede1d4",
+                    "error-container": "#ffdad6",
+                    "surface-container-lowest": "#ffffff",
+                    "on-error": "#ffffff",
+                    "tertiary-container": "#7c7369",
+                    "tertiary": "#635b51",
+                    "inverse-surface": "#33302e",
+                    "primary": "#914634",
+                    "surface-dim": "#e0d8d6",
+                    "primary-fixed-dim": "#ffb4a3",
+                    "on-primary-fixed": "#3c0700",
+                    "on-secondary": "#ffffff",
+                    "surface": "#fff8f6",
+                    "on-tertiary": "#ffffff",
+                    "outline-variant": "#dac1bc",
+                    "on-secondary-fixed": "#281803",
+                    "surface-container-highest": "#e9e1df"
+            },
+            "borderRadius": {
+                    "DEFAULT": "0.25rem",
+                    "lg": "0.5rem",
+                    "xl": "0.75rem",
+                    "full": "9999px"
+            },
+            "spacing": {
+                    "stack-sm": "8px",
+                    "section-gap": "48px",
+                    "stack-md": "16px",
+                    "gutter": "16px",
+                    "margin-mobile": "24px",
+                    "stack-lg": "32px",
+                    "base": "8px",
+                    "margin-desktop": "64px"
+            },
+            "fontFamily": {
+                    "headline-lg": ["EB Garamond"],
+                    "display-lg": ["EB Garamond"],
+                    "label-md": ["Be Vietnam Pro"],
+                    "headline-lg-mobile": ["EB Garamond"],
+                    "headline-md": ["EB Garamond"],
+                    "body-md": ["Be Vietnam Pro"],
+                    "caption": ["Be Vietnam Pro"],
+                    "body-lg": ["Be Vietnam Pro"]
+            },
+            "fontSize": {
+                    "headline-lg": ["32px", {"lineHeight": "40px", "fontWeight": "500"}],
+                    "display-lg": ["40px", {"lineHeight": "48px", "letterSpacing": "-0.02em", "fontWeight": "500"}],
+                    "label-md": ["14px", {"lineHeight": "20px", "letterSpacing": "0.05em", "fontWeight": "600"}],
+                    "headline-lg-mobile": ["28px", {"lineHeight": "36px", "fontWeight": "500"}],
+                    "headline-md": ["24px", {"lineHeight": "32px", "fontWeight": "500"}],
+                    "body-md": ["16px", {"lineHeight": "24px", "fontWeight": "400"}],
+                    "caption": ["12px", {"lineHeight": "16px", "fontWeight": "400"}],
+                    "body-lg": ["18px", {"lineHeight": "28px", "fontWeight": "400"}]
+            }
+          },
+        },
+      }
+    </script>
+<style>
+        html { scroll-behavior: smooth; }
+        body {
+            background-color: #FCFAF8;
+            font-family: 'Be Vietnam Pro', sans-serif;
+            -webkit-font-smoothing: antialiased;
+        }
+        .serif { font-family: 'EB Garamond', serif; }
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+        #topo, #moveis { scroll-margin-top: 5.5rem; }
+        .fc-vp { width: 100%; height: 100%; }
+        .fc-tr { width: 100%; height: 100%; }
+        .fc-sl { flex: 0 0 100%; width: 100%; max-width: 100%; height: 100%; box-sizing: border-box; }
+    </style>
+</head>
+<body class="bg-surface-bright text-on-surface">
+<!-- TopAppBar -->
+<header class="fixed top-0 w-full z-50 bg-surface-bright dark:bg-surface-dim shadow-sm shadow-primary/5 flex items-center justify-between px-margin-mobile h-14">
+<a href="#topo" class="flex items-center gap-2 min-w-0 hover:opacity-90 transition-opacity" aria-label="Ir para o início">
+<span class="material-symbols-outlined text-primary dark:text-primary-fixed-dim shrink-0" data-icon="home">home</span>
+<h1 class="font-headline-lg-mobile text-headline-lg-mobile text-primary dark:text-primary-fixed-dim truncate">Ana e Leo - MudaLar</h1>
+</a>
+<div class="flex items-center">
+<a href="#moveis" class="hover:opacity-80 transition-opacity active:scale-95 transition-transform text-on-surface-variant dark:text-outline-variant p-2 rounded-lg" aria-label="Ir para Móveis disponíveis">
+<span class="material-symbols-outlined" data-icon="shopping_bag">shopping_bag</span>
+</a>
+</div>
+</header>
+<main class="pt-20 pb-28 max-w-[1024px] mx-auto px-margin-mobile">
+<!-- Welcome Section -->
+<section id="topo" class="flex flex-col gap-stack-lg mb-section-gap">
+<div class="relative w-full aspect-square overflow-hidden rounded-xl shadow-[0_20px_40px_rgba(145,70,52,0.05)]">
+<img id="hero-ana-leo" alt="Ana e Leo" class="w-full h-full object-cover" width="1024" height="1024" decoding="async" fetchpriority="high" src="assets/ana-leo.jpg">
+</div>
+<div class="space-y-stack-md text-center md:text-left">
+<h2 class="font-headline-lg-mobile text-headline-lg-mobile text-primary serif leading-tight">Nossa casa está de malas prontas!</h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant leading-relaxed">
+                    Estamos mudando de cidade e decidimos que nossos móveis merecem encontrar um novo lar onde contem novas histórias. Cada peça aqui fez parte da nossa jornada e agora pode fazer parte da sua.
+                </p>
+</div>
+</section>
+
+<!-- Móveis disponíveis: itens gerados a partir de assets/furniture-data.js -->
+<section id="moveis" class="flex flex-col gap-stack-lg" aria-labelledby="moveis-titulo">
+<h3 id="moveis-titulo" class="font-headline-md text-headline-md text-secondary serif border-b border-outline-variant/30 pb-4">Móveis Disponíveis</h3>
+<div id="moveis-list" class="flex flex-col gap-stack-lg"></div>
+</section>
+</main>
+<!-- BottomNavBar -->
+<nav class="fixed bottom-0 left-0 w-full z-50 flex justify-around items-center px-4 py-3 pb-safe bg-surface-container-lowest border-t border-outline-variant/20 shadow-[0_-4px_20px_rgba(145,70,52,0.08)] rounded-t-xl" aria-label="Navegação principal">
+<a data-nav="inicio" class="nav-item flex flex-col items-center justify-center rounded-full px-4 py-1 active:scale-90 transition-all duration-200 hover:text-primary dark:hover:text-primary-fixed-dim" href="#topo">
+<span class="material-symbols-outlined" data-icon="home_app_logo">home_app_logo</span>
+<span class="font-label-md text-label-md">Início</span>
+</a>
+<a data-nav="moveis" class="nav-item flex flex-col items-center justify-center rounded-full px-4 py-1 active:scale-90 transition-all duration-200 hover:text-primary dark:hover:text-primary-fixed-dim" href="#moveis" aria-label="Móveis disponíveis">
+<span class="material-symbols-outlined" data-icon="chair">chair</span>
+<span class="font-label-md text-label-md">Móveis</span>
+</a>
+<a data-nav="contato" class="nav-item flex flex-col items-center justify-center rounded-full px-4 py-1 active:scale-90 transition-all duration-200 hover:text-primary dark:hover:text-primary-fixed-dim" href="https://wa.me/5585999539681" rel="noopener noreferrer" target="_blank">
+<span class="material-symbols-outlined" data-icon="chat">chat</span>
+<span class="font-label-md text-label-md">Contato</span>
+</a>
+</nav>
+
+<script src="assets/furniture-data.js"></script>
+<script>
+(function () {
+  var WA_SVG = '<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor" class="shrink-0" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.435 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>';
+
+  function syncBottomNav() {
+    var hash = (location.hash || '').toLowerCase();
+    var items = document.querySelectorAll('.nav-item');
+    var activeKey = hash === '#moveis' ? 'moveis' : 'inicio';
+    items.forEach(function (el) {
+      var key = el.getAttribute('data-nav');
+      var on = key === activeKey || (key === 'inicio' && (hash === '' || hash === '#topo'));
+      el.classList.toggle('bg-primary-container', on);
+      el.classList.toggle('dark:bg-primary', on);
+      el.classList.toggle('text-on-primary-container', on);
+      el.classList.toggle('dark:text-on-primary', on);
+      el.classList.toggle('text-on-surface-variant', !on);
+      el.classList.toggle('dark:text-outline-variant', !on);
+    });
+  }
+
+  window.addEventListener('hashchange', syncBottomNav);
+  document.addEventListener('DOMContentLoaded', syncBottomNav);
+
+  (function wireHeroImage() {
+    var img = document.getElementById('hero-ana-leo');
+    if (!img) return;
+    var fallbacks = ['assets/ana-leo.png', 'assets/ana-leo.jpg', 'assets/ana-leo.webp'];
+    var fi = 0;
+    img.addEventListener('error', function () {
+      if (fi < fallbacks.length) {
+        img.src = fallbacks[fi++] + '?cb=' + Date.now();
+      }
+    });
+  })();
+
+  function imageSrc(path) {
+    var p = String(path || '').trim();
+    if (!p) return '';
+    if (/^https?:\/\//i.test(p)) return p;
+    return 'assets/' + p.replace(/^\.?\//, '');
+  }
+
+  /** Tenta .jpeg / .jpg / .png / .webp com o mesmo nome base (ficheiro trocado de extensão). */
+  function bindLocalAssetImg(img, relPath) {
+    var raw = String(relPath || '').trim();
+    if (!raw || /^https?:\/\//i.test(raw)) {
+      img.src = imageSrc(raw);
+      return;
+    }
+    var clean = raw.replace(/^\.?\//, '');
+    var dot = clean.lastIndexOf('.');
+    var base = dot > 0 ? clean.slice(0, dot) : clean;
+    var order = [clean, base + '.jpeg', base + '.jpg', base + '.png', base + '.webp'];
+    var uniq = [];
+    order.forEach(function (p) {
+      if (p && uniq.indexOf(p) < 0) uniq.push(p);
+    });
+    var i = 0;
+    img.addEventListener('error', function () {
+      i++;
+      if (i < uniq.length) {
+        img.src = 'assets/' + uniq[i] + '?cb=' + Date.now();
+      }
+    });
+    img.src = 'assets/' + uniq[0];
+  }
+
+  function waHref(phone, nome, valor) {
+    var msg = 'Olá! Tenho interesse em ' + nome + ' (' + valor + ').';
+    return 'https://wa.me/' + String(phone).replace(/\D/g, '') + '?text=' + encodeURIComponent(msg);
+  }
+
+  function wireCarousel(root, nSlides) {
+    var n = Math.max(1, Math.min(3, nSlides | 0));
+    var tr = root.querySelector('[data-fc-tr]');
+    var dots = root.querySelector('[data-fc-dots]');
+    var prev = root.querySelector('[data-fc-prev]');
+    var next = root.querySelector('[data-fc-next]');
+    var index = 0;
+
+    function setTransform() {
+      tr.style.transform = 'translateX(' + (-index * 100) + '%)';
+      dots.querySelectorAll('button').forEach(function (b, i) {
+        b.setAttribute('aria-selected', i === index ? 'true' : 'false');
+        b.classList.toggle('bg-primary', i === index);
+        b.classList.toggle('w-6', i === index);
+        b.classList.toggle('bg-outline-variant/50', i !== index);
+        b.classList.toggle('w-2', i !== index);
+      });
+    }
+
+    function go(delta) {
+      index = (index + delta + n) % n;
+      setTransform();
+    }
+
+    prev.addEventListener('click', function () { go(-1); });
+    next.addEventListener('click', function () { go(1); });
+    dots.querySelectorAll('button').forEach(function (b, i) {
+      b.addEventListener('click', function () {
+        index = i;
+        setTransform();
+      });
+    });
+    setTransform();
+  }
+
+  function buildSlideImages(imagens) {
+    var raw = Array.isArray(imagens) ? imagens : [];
+    var out = [];
+    for (var i = 0; i < raw.length && out.length < 3; i++) {
+      if (raw[i] != null && String(raw[i]).trim()) out.push(String(raw[i]).trim());
+    }
+    return out;
+  }
+
+  function renderList(phone, items) {
+    var listEl = document.getElementById('moveis-list');
+    listEl.innerHTML = '';
+
+    items.forEach(function (item, idx) {
+      var nome = item.nome != null ? String(item.nome) : 'Móvel ' + (idx + 1);
+      var desc = item.descricao != null ? String(item.descricao) : '';
+      var valor = item.valor != null ? String(item.valor) : 'R$ 0,00';
+      var slots = buildSlideImages(item.imagens);
+      if (!slots.length) slots = [null];
+
+      var article = document.createElement('article');
+      article.className = 'bg-surface-container-lowest rounded-xl overflow-hidden shadow-[0_20px_40px_rgba(145,70,52,0.05)] flex flex-col md:flex-row border border-outline-variant/10';
+
+      var mediaCol = document.createElement('div');
+      mediaCol.className = 'md:w-2/5 w-full aspect-square flex flex-col border-b md:border-b-0 md:border-r border-outline-variant/10 bg-surface-container-high/40';
+
+      var fcId = 'fc-' + (item.id != null ? item.id : idx + 1);
+      var carouselRoot = document.createElement('div');
+      carouselRoot.className = 'relative flex h-full min-h-0 flex-1 flex-col';
+      carouselRoot.setAttribute('data-fc-root', fcId);
+
+      var vp = document.createElement('div');
+      vp.className = 'fc-vp overflow-hidden flex-1 min-h-0';
+      vp.setAttribute('data-fc-vp', '');
+
+      var tr = document.createElement('div');
+      tr.className = 'fc-tr flex h-full transition-transform duration-300 ease-out';
+      tr.setAttribute('data-fc-tr', '');
+      tr.style.transform = 'translateX(0)';
+
+      var nSlides = slots.length;
+      for (var s = 0; s < nSlides; s++) {
+        var slide = document.createElement('div');
+        slide.className = 'fc-sl flex items-center justify-center bg-surface-container-high/80';
+        var slot = slots[s];
+        if (slot) {
+          var img = document.createElement('img');
+          bindLocalAssetImg(img, slot);
+          img.alt = nome + ' — foto ' + (s + 1);
+          img.className = 'h-full w-full object-cover';
+          img.loading = idx < 4 ? 'eager' : 'lazy';
+          slide.appendChild(img);
+        } else {
+          slide.innerHTML = '<div class="text-center px-4 text-on-surface-variant font-body-md text-body-md"><span class="material-symbols-outlined text-4xl text-outline-variant block mb-2" aria-hidden="true">add_photo_alternate</span>Sem foto</div>';
+        }
+        tr.appendChild(slide);
+      }
+      vp.appendChild(tr);
+
+      var bar = document.createElement('div');
+      bar.className = 'flex items-center justify-between gap-2 px-2 py-2 border-t border-outline-variant/10 bg-surface-container-lowest shrink-0';
+      bar.innerHTML =
+        '<button type="button" data-fc-prev class="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-outline-variant/30 text-on-surface hover:bg-surface-container-high active:scale-95 transition" aria-label="Foto anterior"><span class="material-symbols-outlined text-xl">chevron_left</span></button>' +
+        '<div data-fc-dots class="flex flex-1 flex-wrap items-center justify-center gap-1.5" role="tablist" aria-label="Fotos do móvel"></div>' +
+        '<button type="button" data-fc-next class="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-outline-variant/30 text-on-surface hover:bg-surface-container-high active:scale-95 transition" aria-label="Próxima foto"><span class="material-symbols-outlined text-xl">chevron_right</span></button>';
+
+      var dotsHost = bar.querySelector('[data-fc-dots]');
+      for (var d = 0; d < nSlides; d++) {
+        var dot = document.createElement('button');
+        dot.type = 'button';
+        dot.className = 'h-2 w-2 shrink-0 rounded-full transition-all';
+        dot.setAttribute('role', 'tab');
+        dot.setAttribute('aria-label', 'Ver foto ' + (d + 1));
+        dotsHost.appendChild(dot);
+      }
+
+      carouselRoot.appendChild(vp);
+      carouselRoot.appendChild(bar);
+      mediaCol.appendChild(carouselRoot);
+
+      var body = document.createElement('div');
+      body.className = 'p-stack-lg flex flex-col justify-between flex-1 min-w-0';
+
+      var title = document.createElement('h4');
+      title.className = 'font-headline-md text-headline-md text-on-surface serif mb-2';
+      title.textContent = nome;
+
+      var p = document.createElement('p');
+      p.className = 'font-body-md text-body-md text-on-surface-variant mb-4';
+      p.textContent = desc;
+
+      var price = document.createElement('p');
+      price.className = 'font-headline-md text-headline-md text-primary font-semibold';
+      price.textContent = valor;
+
+      var top = document.createElement('div');
+      top.appendChild(title);
+      top.appendChild(p);
+      top.appendChild(price);
+
+      var link = document.createElement('a');
+      link.className = 'mt-6 w-full h-14 bg-[#25D366] hover:bg-[#20bd5a] text-white rounded-lg font-label-md text-label-md flex items-center justify-center gap-2 active:scale-[0.98] transition-all shadow-sm';
+      link.href = waHref(phone, nome, valor);
+      link.rel = 'noopener noreferrer';
+      link.target = '_blank';
+      link.innerHTML = WA_SVG + '<span>WhatsApp</span>';
+
+      body.appendChild(top);
+      body.appendChild(link);
+
+      article.appendChild(mediaCol);
+      article.appendChild(body);
+      listEl.appendChild(article);
+
+      wireCarousel(carouselRoot, nSlides);
+    });
+  }
+
+  function defaultItems() {
+    var out = [];
+    out.push({
+      id: 1,
+      nome: 'Sofá',
+      descricao: 'Descreva o móvel, medidas e estado de conservação.',
+      valor: 'R$ 0,00',
+      imagens: ['sofa.jpeg', 'sofa2.jpeg']
+    });
+    for (var i = 2; i <= 52; i++) {
+      var n = i < 10 ? '0' + i : String(i);
+      out.push({
+        id: i,
+        nome: 'Móvel ' + n,
+        descricao: 'Descreva o móvel, medidas e estado de conservação.',
+        valor: 'R$ 0,00',
+        imagens: []
+      });
+    }
+    return out;
+  }
+
+  function loadCatalog() {
+    if (window.__ANA_FURNITURE && Array.isArray(window.__ANA_FURNITURE.items) && window.__ANA_FURNITURE.items.length) {
+      return Promise.resolve(window.__ANA_FURNITURE);
+    }
+    var u = new URL('assets/furniture.json', document.baseURI).href;
+    return fetch(u, { cache: 'no-store' })
+      .then(function (r) {
+        if (!r.ok) throw new Error('fetch');
+        return r.json();
+      })
+      .catch(function () {
+        return new Promise(function (resolve, reject) {
+          var xhr = new XMLHttpRequest();
+          xhr.overrideMimeType('application/json;charset=utf-8');
+          xhr.open('GET', u, true);
+          xhr.onload = function () {
+            if ((xhr.status >= 200 && xhr.status < 300) || xhr.status === 0) {
+              try {
+                resolve(JSON.parse(xhr.responseText));
+              } catch (e) {
+                reject(e);
+              }
+            } else reject(new Error('xhr status'));
+          };
+          xhr.onerror = function () {
+            reject(new Error('xhr'));
+          };
+          xhr.send();
+        });
+      });
+  }
+
+  loadCatalog()
+    .then(function (data) {
+      var phone = (data && data.phone) ? data.phone : '5585999539681';
+      var items = data && Array.isArray(data.items) && data.items.length ? data.items.slice(0, 52) : defaultItems();
+      renderList(phone, items);
+    })
+    .catch(function () {
+      renderList('5585999539681', defaultItems());
+    });
+})();
+</script>
+</body>
+</html>
