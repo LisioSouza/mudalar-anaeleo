@@ -51,7 +51,7 @@
     {
       "id": 7,
       "nome": "Banco baú",
-      "descricao": "Banco em mdf cinza com rodas de silicone e 2 compartimentos. Medidas: 160cm x 40cm x 50cm(a)",
+      "descricao": "Banco em mdf cinza com rodas de silicone e 2 compartimentos. Medidas: 160cm x 40cm x 50cm(a).",
       "valor": "R$ 190,00",
       "imagens": [
         "bau.jpeg",
@@ -160,7 +160,7 @@
     {
       "id": 26,
       "nome": "Mesa lateral redonda",
-      "descricao": "Vidro temperado e aluminio, com regulagem de altura. Medicas: 55 diâmetro x 60 de altura",
+      "descricao": "Vidro temperado e aluminio, com regulagem de altura. Medidas: 55 diâmetro x 60 de altura.",
       "valor": "R$ 270,00",
       "imagens": [
         "mesa-vidro.jpeg"
@@ -169,7 +169,7 @@
     {
       "id": 27,
       "nome": "Mesa",
-      "descricao": "4 cadeiras conforto, tampo de vidro e pés estrela. Medidas: 1,15m x 1,05m. Obs: os itens podem ser vendidos separadamente. Valor da mesa: R$ 1.190,00. Valor da cadeira (unidade): R$ 110,00",
+      "descricao": "4 cadeiras conforto, tampo de vidro e pés estrela. Medidas: 1,15m x 1,05m. Obs: os itens podem ser vendidos separadamente. Valor da mesa: R$ 1.190,00. Valor da cadeira (unidade): R$ 110,00.",
       "valor": "R$ 1.380,00 (mesa e 4 cadeiras)",
       "imagens": [
         "mesa4.jpeg",
@@ -217,7 +217,7 @@
     {
       "id": 34,
       "nome": "Tapete",
-      "descricao": "Cinza. Medidas: 2m x 3m",
+      "descricao": "Cinza. Medidas: 2m x 3m.",
       "valor": "R$ 280,00",
       "imagens": [
         "tapete.jpeg"
