@@ -4,7 +4,7 @@ window.__ANA_FURNITURE={
     {
       "id": 1,
       "nome": "Sofá",
-      "descricao": "Sofá cinza - 3 lugares. Medidas: 2,40cm x 100cm (p) x 75cm. Obs: Tirar o braço para entrar no elevador. Não incluso o banco de centro da segunda imagem.",
+      "descricao": "Sofá cinza - 3 lugares. Medidas: 240cm x 100cm (p) x 75cm. Obs: Tirar o braço para entrar no elevador. Não incluso o banco de centro da segunda imagem.",
       "valor": "R$ 650,00",
       "imagens": [
         "sofa.jpeg",
@@ -32,7 +32,7 @@ window.__ANA_FURNITURE={
     {
       "id": 4,
       "nome": "Banco de centro",
-      "descricao": "Roda de silicone. Medidas: 1,20cm x 50cm x 45cm(a).",
+      "descricao": "Roda de silicone. Medidas: 120cm x 50cm x 45cm(a).",
       "valor": "R$ 100,00",
       "imagens": [
         "banco.jpeg"
@@ -51,7 +51,7 @@ window.__ANA_FURNITURE={
     {
       "id": 7,
       "nome": "Banco baú",
-      "descricao": "Banco em mdf cinza com rodas de silicone e 2 compartimentos. Medidas: 1,60cm x 40cm x 50cm(a)",
+      "descricao": "Banco em mdf cinza com rodas de silicone e 2 compartimentos. Medidas: 160cm x 40cm x 50cm(a)",
       "valor": "R$ 190,00",
       "imagens": [
         "bau.jpeg",
@@ -62,7 +62,7 @@ window.__ANA_FURNITURE={
     {
       "id": 8,
       "nome": "Cadeira vermelha",
-      "descricao": "Cadeira Eames Arm Shell com Base Eiffel de acrílico vermelha e base metal Tok & Stok.",
+      "descricao": "Eames Arm Shell com Base Eiffel de acrílico vermelha e base metal - Tok & Stok.",
       "valor": "R$ 310,00 - a unidade",
       "imagens": [
         "cadeira-a.jpeg",
@@ -81,22 +81,13 @@ window.__ANA_FURNITURE={
       ]
     },
     {
-      "id": 11,
-      "nome": "Cadeira de alumínio",
-      "descricao": "Cadeira de alumínio trançado marrom para área externa. Obs: Uma delas um pouco solto.",
-      "valor": "R$ 50,00 - a unidade",
-      "imagens": [
-        "cadeira-t.jpeg",
-        "cadeira-t2.jpeg"
-      ]
-    },
-    {
       "id": 13,
       "nome": "Colchao solteiro",
       "descricao": "Colchão D33 Ortoclass.",
       "valor": "R$ 190,00",
       "imagens": [
-        "colchao-d2.jpeg"
+        "colchao-d2.jpeg",
+        "colchao2.jpeg"
       ]
     },
     {
@@ -105,8 +96,7 @@ window.__ANA_FURNITURE={
       "descricao": "Colchão D45 UltraBlack HNE Herval.",
       "valor": "R$ 320,00",
       "imagens": [
-        "colchao.jpeg",
-        "colchao2.jpeg"
+        "colchao.jpeg"
       ]
     },
     {
@@ -131,16 +121,17 @@ window.__ANA_FURNITURE={
     {
       "id": 21,
       "nome": "Freezer vertical",
-      "descricao": "Brastemp Flex Frost Free de 228 Litros, aço escovado.",
-      "valor": "R$ 2.000,00",
+      "descricao": "Brastemp Flex Frost Free de 228 Litros, aço escovado. Obs: modo freezer ou refrigerador, informações na segunda imagem.",
+      "valor": "R$ 1.900,00",
       "imagens": [
-        "freezer.jpeg"
+        "freezer.jpeg",
+        "info.jpg"
       ]
     },
     {
       "id": 22,
       "nome": "Lixeira de banheiro",
-      "descricao": "Brinox 5 litros",
+      "descricao": "Brinox 5 litros.",
       "valor": "R$ 25,00 - a unidade",
       "imagens": [
         "lix.jpeg"
@@ -149,7 +140,7 @@ window.__ANA_FURNITURE={
     {
       "id": 23,
       "nome": "Livreiros retrô",
-      "descricao": "Linha Valentina Artesano.  Dimensões do maior: 1,02cm x 41cm x 36cm(p). Dimensões do menor: 66cm x 41cm x 36cm(p)",
+      "descricao": "Linha Valentina Artesano.  Medidas do maior: 1,02cm x 41cm x 36cm(p). Medidas do menor: 66cm x 41cm x 36cm(p).",
       "valor": "R$ 700,00 (maior) e R$ 500,00 (menor)",
       "imagens": [
         "livreiros.jpeg",
@@ -169,7 +160,7 @@ window.__ANA_FURNITURE={
     {
       "id": 26,
       "nome": "Mesa lateral redonda",
-      "descricao": "vidro temperado e aluminio, com regulagem de altura. Dimensões: 55 diâmetro x 60 de altura",
+      "descricao": "Vidro temperado e aluminio, com regulagem de altura. Medicas: 55 diâmetro x 60 de altura",
       "valor": "R$ 270,00",
       "imagens": [
         "mesa-vidro.jpeg"
@@ -178,7 +169,7 @@ window.__ANA_FURNITURE={
     {
       "id": 27,
       "nome": "Mesa",
-      "descricao": "4 cadeiras conforto, tampo de vidro e pés estrela. Dimensões: 1,15m x 1,05m. Obs: os itens podem ser vendidos separadamente. Valor da mesa: R$ 1.190,00. Valor da cadeira: R$ 110,00",
+      "descricao": "4 cadeiras conforto, tampo de vidro e pés estrela. Medidas: 1,15m x 1,05m. Obs: os itens podem ser vendidos separadamente. Valor da mesa: R$ 1.190,00. Valor da cadeira (unidade): R$ 110,00",
       "valor": "R$ 1.380,00 (mesa e 4 cadeiras)",
       "imagens": [
         "mesa4.jpeg",
@@ -188,9 +179,9 @@ window.__ANA_FURNITURE={
     },
     {
       "id": 28,
-      "nome": "Microondas",
-      "descricao": "Descreva o móvel, medidas e estado de conservação.",
-      "valor": "R$ 0,00",
+      "nome": "Micro-ondas",
+      "descricao": "EasyClean 30 litros (MS3091BC), aço escovado.",
+      "valor": "R$ 360,00",
       "imagens": [
         "microondas.jpeg"
       ]
@@ -198,7 +189,7 @@ window.__ANA_FURNITURE={
     {
       "id": 29,
       "nome": "Puffs",
-      "descricao": "Corino vermelho Etna. Dimensões: 0,42m x 0,42m",
+      "descricao": "Corino vermelho Etna. Medidas: 0,42m x 0,42m.",
       "valor": "R$ 25,00 - a unidade",
       "imagens": [
         "puffs.jpeg",
@@ -206,19 +197,9 @@ window.__ANA_FURNITURE={
       ]
     },
     {
-      "id": 31,
-      "nome": "Cama Queen",
-      "descricao": "Colchão Native Bambu + Base.",
-      "valor": "R$ 1.280,00",
-      "imagens": [
-        "queen.jpeg",
-        "queen2.jpeg"
-      ]
-    },
-    {
       "id": 32,
       "nome": "Rack",
-      "descricao": "Rack laca preta e madeira. Dimensões: 2,40m x 0,55m x 0,50m, com possibilidade de aumentar o comprimento",
+      "descricao": "Rack laca preta e madeira. Medidas: 2,40m x 0,55m x 0,50m com possibilidade de aumentar o comprimento.",
       "valor": "R$ 1.690,00",
       "imagens": [
         "rack.jpeg"
@@ -227,7 +208,7 @@ window.__ANA_FURNITURE={
     {
       "id": 33,
       "nome": "Refrigerador",
-      "descricao": "Econavi Inverter Panasonic 483 litros",
+      "descricao": "Econavi Inverter Panasonic 483 litros.",
       "valor": "R$ 3.000,00",
       "imagens": [
         "refri.jpeg"
@@ -236,7 +217,7 @@ window.__ANA_FURNITURE={
     {
       "id": 34,
       "nome": "Tapete",
-      "descricao": "Cinza. Dimensões: 2m x 3m",
+      "descricao": "Cinza. Medidas: 2m x 3m",
       "valor": "R$ 280,00",
       "imagens": [
         "tapete.jpeg"
@@ -245,10 +226,37 @@ window.__ANA_FURNITURE={
     {
       "id": 35,
       "nome": "TV",
-      "descricao": "Smart TV Philips 50''",
-      "valor": "R$ 1.300,00",
+      "descricao": "Smart TV Philips 50''.",
+      "valor": "R$ 1.000,00",
       "imagens": [
         "tv.jpeg"
+      ]
+    },
+    {
+      "id": 36,
+      "nome": "Estante",
+      "descricao": "MDF cinza. Obs: leve estufado no rodapé. Medidas: 110cm x 73cm x 38cm(p).",
+      "valor": "R$ 165,00",
+      "imagens": [
+        "estante-m.jpg"
+      ]
+    },
+    {
+      "id": 37,
+      "nome": "TV",
+      "descricao": "Sony Bravia 32''. Obs: não é tv smart.",
+      "valor": "R$ 450,00",
+      "imagens": [
+        "tv2.jpg"
+      ]
+    },
+    {
+      "id": 38,
+      "nome": "Lixeira",
+      "descricao": "Lixeira de pia.",
+      "valor": "R$ 10,00",
+      "imagens": [
+        "lix-pia.jpg"
       ]
     }
   ]
