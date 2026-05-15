@@ -84,7 +84,7 @@
       "id": 13,
       "nome": "Colchao solteiro",
       "descricao": "Colchão D33 Ortoclass.",
-      "valor": "R$ 190,00",
+      "valor": "R$ 147,00",
       "imagens": [
         "colchao-d2.jpeg",
         "colchao2.jpeg"
@@ -93,8 +93,8 @@
     {
       "id": 14,
       "nome": "Colchao solteiro",
-      "descricao": "Colchão D45 UltraBlack HNE Herval.",
-      "valor": "R$ 320,00",
+      "descricao": "Colchão D45 UltraBlack HNE Herval. Suporta até 150Kg.",
+      "valor": "R$ 260,00",
       "imagens": [
         "colchao.jpeg"
       ]
@@ -150,7 +150,7 @@
     {
       "id": 25,
       "nome": "Mesa de madeira",
-      "descricao": "Mesa de madeira preta e vidro temperado, rodinhas de silicone.",
+      "descricao": "Mesa de madeira preta e vidro temperado, rodinhas de silicone. Medidas: 82cm x 54cm x 18cm(a).",
       "valor": "R$ 225,00",
       "imagens": [
         "mesa-madeira.jpeg",
