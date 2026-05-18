@@ -219,6 +219,15 @@ window.__ANA_FURNITURE={
       "imagens": [
         "man.jpeg"
       ]
+    },
+    {
+      "id": 23,
+      "nome": "Pratos decorativos",
+      "descricao": "Pratos decorativos/fruteiras de cerâmica artesanal.",
+      "valor": "R$ 40,00",
+      "imagens": [
+        "pratos.jpeg"
+      ]
     }
   ]
 };
