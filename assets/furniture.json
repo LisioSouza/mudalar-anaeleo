@@ -2,33 +2,6 @@
   "phone": "5585999539681",
   "items": [
     {
-      "id": 15,
-      "nome": "Potes de vidro",
-      "descricao": "03 potes de vidro redondos.",
-      "valor": "R$ 23,00",
-      "imagens": [
-        "potes.jpeg"
-      ]
-    },
-    {
-      "id": 16,
-      "nome": "Potes de vidro",
-      "descricao": "03 potes de vidro tampa verde Invicta.",
-      "valor": "R$ 23,00",
-      "imagens": [
-        "potes2.jpeg"
-      ]
-    },
-    {
-      "id": 18,
-      "nome": "Tapete",
-      "descricao": "Cor cinza, medidas: 2m x 3m.",
-      "valor": "R$ 260,00",
-      "imagens": [
-        "tapete.jpg"
-      ]
-    },
-    {
       "id": 17,
       "nome": "Canecas",
       "descricao": "Par de Canecas Grandes Amsterdã 400ml. Conjunto de Porcelana Temática Viagem / Holanda.",
@@ -77,22 +50,12 @@
       ]
     },
     {
-      "id": 4,
-      "nome": "Colchao solteiro",
-      "descricao": "Colchão D45 UltraBlack HNE Herval. Suporta até 150Kg.",
-      "valor": "R$ 230,00",
-      "imagens": [
-        "colchao.jpeg"
-      ]
-    },
-    {
       "id": 5,
-      "nome": "Colchao viúva",
-      "descricao": "Colchão D33 Ortoclass.",
-      "valor": "R$ 90,00",
+      "nome": "Nadadeira curta",
+      "descricao": "Speedo 36 Nova - modelo de pala curta em silicone.",
+      "valor": "R$ 179,00",
       "imagens": [
-        "colchaov.jpeg",
-        "colchaov2.jpeg"
+        "nada.jpeg"      
       ]
     },
    {
@@ -109,7 +72,7 @@
       "id": 7,
       "nome": "Livreiros retrô",
       "descricao": "Linha Valentina Artesano.  Medidas do maior: 102cm x 41cm x 36cm(p). Medidas do menor: 66cm x 41cm x 36cm(p).",
-      "valor": "R$ 700,00 (maior) e R$ 500,00 (menor)",
+      "valor": "R$ 360,00 (maior) e R$ 240,00 (menor)",
       "imagens": [
         "livreiros.jpeg",
         "livreiros2.jpeg"
@@ -136,13 +99,12 @@
     },
     {
       "id": 10,
-      "nome": "Mesa",
-      "descricao": "Mesa com 4 cadeiras conforto, tampo de vidro e pés estrela. Medidas: 1,15m x 1,05m.",
-      "valor": "R$ 1.270,00",
+      "nome": "Secador de cabelo",
+      "descricao": "Tamanho convencional da Britânia, modelo SP 1300 Tourmaline Ion.",
+      "valor": "R$ 40,00",
       "imagens": [
-        "mesa4.jpeg",
-        "mesa42.jpeg",
-        "mesa43.jpeg"
+        "sec.jpeg"
+      
       ]
     },
     {
@@ -287,21 +249,21 @@
     },
     {
       "id": 30,
-      "nome": "Encosto triangular",
-      "descricao": "Material: Espuma.",
-      "valor": "R$ 30,00",
+      "nome": "Chapinha de cabelo",
+      "descricao": "Fama/ Britânia, modelo Fama Ceramic Ion, revestimento cerâmico, diminui frizz.",
+      "valor": "R$ 25,00",
       "imagens": [
-        "enc.jpeg",
-        "enc2.jpeg"
+        "chap.jpeg"
       ]
     },
     {
       "id": 31,
-      "nome": "Barraca",
-      "descricao": "Para 4 pessoas marca Iglu Mor.",
-      "valor": "R$ 45,00",
+      "nome": "Câmera Canon",
+      "descricao": "Semi-profissional (bridge) - Canon PowerShot SX500 IS (com zoom óptico de 30x e 16 megapixels), acompanhada de alça e bolsa de transporte, bateria e carregador original.",
+      "valor": "R$ 629,00",
       "imagens": [
-        "bar.jpeg"
+        "cam.jpeg",
+        "cam2.jpeg"
       ]
     }
   ]
