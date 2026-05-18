@@ -38,8 +38,8 @@ window.__ANA_FURNITURE={
       ]
     },
     {
-      "id": 23,
-      "nome": "Caneca Starbucks Grécia",
+      "id": 32,
+      "nome": "Caneca Starbucks Grécia 500ml",
       "descricao": "Coleção Especial You Are Here.",
       "valor": "R$ 49,00",
       "imagens": [
@@ -50,7 +50,7 @@ window.__ANA_FURNITURE={
       "id": 1,
       "nome": "Bancos de madeira",
       "descricao": "Madeira Maciça.",
-      "valor": "R$ 190,00 - o conjunto / R$ 95,00 - a unidade",
+      "valor": "R$ 185,00 - o conjunto / R$ 95,00 - a unidade",
       "imagens": [
         "banco-m.jpeg"
       ]
@@ -184,7 +184,7 @@ window.__ANA_FURNITURE={
     {
       "id": 19,
       "nome": "Mini Fundue",
-      "descricao": "Fondue de Chocolate Individual / Casal com Garfinhos de Coração - Novo.",
+      "descricao": "Fondue de Chocolate Individual / Casal com garfinhos de Coração - Novo.",
       "valor": "R$ 20,00",
       "imagens": [
         "fun.jpeg"
@@ -193,7 +193,7 @@ window.__ANA_FURNITURE={
     {
       "id": 20,
       "nome": "Pipoqueira de micro-ondas",
-      "descricao": "Marca Zap Chef (modelo Pipoca Fácil).Nova com manual.",
+      "descricao": "Marca Zap Chef (modelo Pipoca Fácil). Nova com manual.",
       "valor": "R$ 20,00",
       "imagens": [
         "pip.jpeg",
@@ -227,6 +227,81 @@ window.__ANA_FURNITURE={
       "valor": "R$ 40,00",
       "imagens": [
         "pratos.jpeg"
+      ]
+    },
+    {
+      "id": 24,
+      "nome": "Mini vaso de cerâmica",
+      "descricao": "Efeito esmaltado estilo granilite amarelo.",
+      "valor": "R$ 8,00",
+      "imagens": [
+        "miniv.jpeg"
+      ]
+    },
+    {
+      "id": 25,
+      "nome": "Mini vaso de cerâmica",
+      "descricao": "Cerâmica rústica,  arte rupestre.",
+      "valor": "R$ 8,00",
+      "imagens": [
+        "miniv2.jpeg"
+      ]
+    },
+    {
+      "id": 26,
+      "nome": "Vaso decorativo",
+      "descricao": "Cerâmica da Etna (modelo torre/coluna quadrada), estampa urbana de Nova York. Altura 36cm.",
+      "valor": "R$ 39,00",
+      "imagens": [
+        "vaso.jpeg",
+        "vaso2.jpeg"
+      ]
+    },
+    {
+      "id": 27,
+      "nome": "Garrafa térmica",
+      "descricao": "Clássica da marca Aladdin capacidade de 1 litro.",
+      "valor": "R$ 11,99",
+      "imagens": [
+        "gar.jpeg",
+        "gar2.jpeg"
+      ]
+    },
+    {
+      "id": 28,
+      "nome": "Luminária de mesa",
+      "descricao": "Articulada com haste flexível em espiral (pescoço de ganso) com lâmpada. Usada",
+      "valor": "R$ 12,00",
+      "imagens": [
+        "lu.jpeg"
+      ]
+    },
+    {
+      "id": 29,
+      "nome": "Luminária de mesa",
+      "descricao": "Articulada com haste flexível em espiral (pescoço de ganso) com lâmpada.",
+      "valor": "R$ 18,00",
+      "imagens": [
+        "lu2.jpeg"
+      ]
+    },
+    {
+      "id": 30,
+      "nome": "Encosto triangular",
+      "descricao": "Material: Espuma.",
+      "valor": "R$ 30,00",
+      "imagens": [
+        "enc.jpeg",
+        "enc2.jpeg"
+      ]
+    },
+    {
+      "id": 31,
+      "nome": "Barraca",
+      "descricao": "Para 4 pessoas marca Iglu Mor.",
+      "valor": "R$ 45,00",
+      "imagens": [
+        "bar.jpeg"
       ]
     }
   ]
