@@ -2,61 +2,12 @@
   "phone": "5585999539681",
   "items": [
     {
-      "id": 1,
-      "nome": "Sofá",
-      "descricao": "Sofá cinza - 3 lugares. Medidas: 240cm x 100cm (p) x 75cm. Obs: Tirar o braço para entrar no elevador. Não incluso o banco de centro da segunda imagem.",
-      "valor": "R$ 650,00",
-      "imagens": [
-        "sofa.jpeg",
-        "sofa2.jpeg"
-      ]
-    },
-    {
-      "id": 2,
-      "nome": "Aspirador de pó",
-      "descricao": "Aspirador A10 Smart.",
-      "valor": "R$ 130,00",
-      "imagens": [
-        "aspirador.jpeg"
-      ]
-    },
-    {
       "id": 3,
       "nome": "Bancos de madeira",
       "descricao": "Madeira Maciça.",
-      "valor": "R$ 130,00 - a unidade",
+      "valor": "R$ 190,00 - o conjunto / R$ 95,00 - a unidade",
       "imagens": [
         "banco-m.jpeg"
-      ]
-    },
-    {
-      "id": 4,
-      "nome": "Banco de centro",
-      "descricao": "Roda de silicone. Medidas: 120cm x 50cm x 45cm(a).",
-      "valor": "R$ 100,00",
-      "imagens": [
-        "banco.jpeg"
-      ]
-    },
-    {
-      "id": 6,
-      "nome": "Batedeira",
-      "descricao": "Arno Planetária Deluxe.",
-      "valor": "R$ 220,00",
-      "imagens": [
-        "batedeira.jpeg",
-        "bate2.jpeg"
-      ]
-    },
-    {
-      "id": 7,
-      "nome": "Banco baú",
-      "descricao": "Banco em mdf cinza com rodas de silicone e 2 compartimentos. Medidas: 160cm x 40cm x 50cm(a).",
-      "valor": "R$ 190,00",
-      "imagens": [
-        "bau.jpeg",
-        "bau2.jpeg",
-        "bau3.jpeg"
       ]
     },
     {
@@ -81,16 +32,6 @@
       ]
     },
     {
-      "id": 13,
-      "nome": "Colchao solteiro",
-      "descricao": "Colchão D33 Ortoclass.",
-      "valor": "R$ 147,00",
-      "imagens": [
-        "colchao-d2.jpeg",
-        "colchao2.jpeg"
-      ]
-    },
-    {
       "id": 14,
       "nome": "Colchao solteiro",
       "descricao": "Colchão D45 UltraBlack HNE Herval. Suporta até 150Kg.",
@@ -109,16 +50,7 @@
         "colchaov2.jpeg"
       ]
     },
-    {
-      "id": 18,
-      "nome": "Espelho",
-      "descricao": "Cor rosa em MDF.",
-      "valor": "R$ 90,00",
-      "imagens": [
-        "espelho.jpeg"
-      ]
-    },
-    {
+   {
       "id": 21,
       "nome": "Freezer vertical",
       "descricao": "Brastemp Flex Frost Free de 228 Litros, aço escovado. Obs: modo freezer ou refrigerador, informações na segunda imagem.",
@@ -126,15 +58,6 @@
       "imagens": [
         "freezer.jpeg",
         "info.jpg"
-      ]
-    },
-    {
-      "id": 22,
-      "nome": "Lixeira de banheiro",
-      "descricao": "Brinox 5 litros.",
-      "valor": "R$ 25,00 - a unidade",
-      "imagens": [
-        "lix.jpeg"
       ]
     },
     {
@@ -178,25 +101,6 @@
       ]
     },
     {
-      "id": 28,
-      "nome": "Micro-ondas",
-      "descricao": "EasyClean 30 litros (MS3091BC), aço escovado.",
-      "valor": "R$ 360,00",
-      "imagens": [
-        "microondas.jpeg"
-      ]
-    },
-    {
-      "id": 29,
-      "nome": "Puffs",
-      "descricao": "Corino vermelho Etna. Medidas: 0,42m x 0,42m.",
-      "valor": "R$ 25,00 - a unidade",
-      "imagens": [
-        "puffs.jpeg",
-        "puffs2.jpeg"
-      ]
-    },
-    {
       "id": 32,
       "nome": "Rack",
       "descricao": "Rack laca preta e madeira. Medidas: 2,40m x 0,55m x 0,50m com possibilidade de aumentar o comprimento.",
@@ -212,24 +116,6 @@
       "valor": "R$ 3.000,00",
       "imagens": [
         "refri.jpeg"
-      ]
-    },
-    {
-      "id": 34,
-      "nome": "Tapete",
-      "descricao": "Cinza. Medidas: 2m x 3m.",
-      "valor": "R$ 280,00",
-      "imagens": [
-        "tapete.jpeg"
-      ]
-    },
-    {
-      "id": 35,
-      "nome": "TV",
-      "descricao": "Smart TV Philips 50''.",
-      "valor": "R$ 1.000,00",
-      "imagens": [
-        "tv.jpeg"
       ]
     },
     {
@@ -249,15 +135,6 @@
       "imagens": [
         "tv2.jpg"
       ]
-    },
-    {
-      "id": 38,
-      "nome": "Lixeira",
-      "descricao": "Lixeira de pia.",
-      "valor": "R$ 10,00",
-      "imagens": [
-        "lix-pia.jpg"
-      ]
-    }
+    }    
   ]
 }
