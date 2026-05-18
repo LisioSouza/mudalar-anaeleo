@@ -115,6 +115,13 @@
         .fc-vp { width: 100%; height: 100%; }
         .fc-tr { width: 100%; height: 100%; }
         .fc-sl { flex: 0 0 100%; width: 100%; max-width: 100%; height: 100%; box-sizing: border-box; }
+        @keyframes blink-alert {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.2; }
+        }
+        .blink-alert {
+            animation: blink-alert 1.5s ease-in-out infinite;
+        }
     </style>
 </head>
 <body class="bg-surface-bright text-on-surface">
@@ -146,6 +153,7 @@
 
 <!-- Móveis disponíveis: itens gerados a partir de assets/furniture-data.js -->
 <section id="moveis" class="flex flex-col gap-stack-lg" aria-labelledby="moveis-titulo">
+<p id="moveis-count" class="font-headline-lg-mobile text-headline-lg-mobile text-primary serif leading-tight blink-alert">0 itens para venda</p>
 <h3 id="moveis-titulo" class="font-headline-md text-headline-md text-secondary serif border-b border-outline-variant/30 pb-4">Móveis Disponíveis</h3>
 <div id="moveis-list" class="flex flex-col gap-stack-lg"></div>
 </section>
@@ -283,7 +291,15 @@
     return out;
   }
 
+  function updateMoveisCount(count) {
+    var countEl = document.getElementById('moveis-count');
+    if (!countEl) return;
+    var label = count === 1 ? 'item' : 'itens';
+    countEl.textContent = count + ' ' + label + ' para venda';
+  }
+
   function renderList(phone, items) {
+    updateMoveisCount(Array.isArray(items) ? items.length : 0);
     var listEl = document.getElementById('moveis-list');
     listEl.innerHTML = '';
 
