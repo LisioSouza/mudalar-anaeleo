@@ -2,24 +2,6 @@ window.__ANA_FURNITURE={
   "phone": "5585999539681",
   "items": [
     {
-      "id": 17,
-      "nome": "Canecas",
-      "descricao": "Par de Canecas Grandes Amsterdã 400ml. Conjunto de Porcelana Temática Viagem / Holanda.",
-      "valor": "R$ 28,00",
-      "imagens": [
-        "can.jpeg"
-      ]
-    },
-    {
-      "id": 32,
-      "nome": "Caneca Starbucks Grécia 500ml",
-      "descricao": "Coleção Especial You Are Here.",
-      "valor": "R$ 49,00",
-      "imagens": [
-        "can2.jpg"
-      ]
-    },
-    {
       "id": 1,
       "nome": "Porta-retratos ou moldura",
       "descricao": "MDF cru formato de gatinho.",
@@ -56,26 +38,6 @@ window.__ANA_FURNITURE={
       "valor": "R$ 30,00",
       "imagens": [
         "kit.jpeg"
-      ]
-    },
-    {
-      "id": 6,
-      "nome": "Freezer vertical",
-      "descricao": "Brastemp Flex Frost Free de 228 Litros, aço escovado. Obs: modo freezer ou refrigerador, informações na segunda imagem.",
-      "valor": "R$ 1.300,00",
-      "imagens": [
-        "freezer.jpeg",
-        "info.jpg"
-      ]
-    },
-    {
-      "id": 7,
-      "nome": "Livreiros retrô",
-      "descricao": "Linha Valentina Artesano.  Medidas do maior: 102cm x 41cm x 36cm(p). Medidas do menor: 66cm x 41cm x 36cm(p).",
-      "valor": "R$ 360,00 (maior) e R$ 240,00 (menor)",
-      "imagens": [
-        "livreiros.jpeg",
-        "livreiros2.jpeg"
       ]
     },
     {
@@ -139,16 +101,7 @@ window.__ANA_FURNITURE={
       "descricao": "Vidro transparente com borda de corações.",
       "valor": "R$ 8,00",
       "imagens": [
-        "pet.jpg"
-      ]
-    },
-    {
-      "id": 19,
-      "nome": "Mini Fundue",
-      "descricao": "Fondue de Chocolate Individual / Casal com garfinhos de Coração - Novo.",
-      "valor": "R$ 20,00",
-      "imagens": [
-        "fun.jpeg"
+        "pet.jpeg"
       ]
     },
     {
@@ -180,27 +133,6 @@ window.__ANA_FURNITURE={
       ]
     },
     {
-      "id": 23,
-      "nome": "Conjunto Leiteira e Mini Bowl",
-      "descricao": "Cerâmica Atmosfera.",
-      "valor": "R$ 23,00",
-      "imagens": [
-        "leite.jpeg",
-        "leite2.jpeg"
-      ]
-    },
-    {
-      "id": 24,
-      "nome": "Banco cooler amarelo",
-      "descricao": "Pequeno quebradinho na lateral.",
-      "valor": "R$ 25,00",
-      "imagens": [
-        "bancoa.jpeg",
-        "bancoa2.jpeg",
-        "bancoa3.jpeg"
-      ]
-    },
-    {
       "id": 25,
       "nome": "Porta guardanapo",
       "descricao": " OU Plástico vermelho.",
@@ -229,15 +161,6 @@ window.__ANA_FURNITURE={
       ]
     },
     {
-      "id": 28,
-      "nome": "Luminária de mesa",
-      "descricao": "Articulada com haste flexível em espiral (pescoço de ganso) com lâmpada. Usada",
-      "valor": "R$ 12,00",
-      "imagens": [
-        "lu.jpeg"
-      ]
-    },
-    {
       "id": 29,
       "nome": "Moedor de café elétrico",
       "descricao": "Cadence Di Grano, caixa original.",
@@ -245,15 +168,6 @@ window.__ANA_FURNITURE={
       "imagens": [
         "moedor.jpeg",
         "moedor2.jpeg"
-      ]
-    },
-    {
-      "id": 30,
-      "nome": "Chapinha de cabelo",
-      "descricao": "Fama/ Britânia, modelo Fama Ceramic Ion, revestimento cerâmico, diminui frizz.",
-      "valor": "R$ 25,00",
-      "imagens": [
-        "chap.jpeg"
       ]
     },
     {
