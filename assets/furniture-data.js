@@ -32,7 +32,7 @@ window.__ANA_FURNITURE={
       "id": 2,
       "nome": "Cadeira vermelha",
       "descricao": "Eames Arm Shell com Base Eiffel de acrílico vermelha e base metal - Tok & Stok.",
-      "valor": "R$ 259,00 - a unidade",
+      "valor": "R$ 229,00 - a unidade",
       "imagens": [
         "cadeira-a.jpeg",
         "cadeira-a2.jpeg",
@@ -110,7 +110,7 @@ window.__ANA_FURNITURE={
       "id": 11,
       "nome": "Rack",
       "descricao": "Rack laca preta e madeira. Medidas: 2,40m x 0,55m x 0,50m com possibilidade de aumentar o comprimento.",
-      "valor": "R$ 1.460,00",
+      "valor": "R$ 1.260,00",
       "imagens": [
         "rack.jpeg"
       ]
@@ -183,20 +183,23 @@ window.__ANA_FURNITURE={
     },
     {
       "id": 23,
-      "nome": "Pratos decorativos",
-      "descricao": "Pratos decorativos/fruteiras de cerâmica artesanal.",
-      "valor": "R$ 40,00",
+      "nome": "Conjunto Leiteira e Mini Bowl",
+      "descricao": "Cerâmica Atmosfera.",
+      "valor": "R$ 23,00",
       "imagens": [
-        "pratos.jpeg"
+        "leite.jpeg",
+        "leite2.jpeg"
       ]
     },
     {
       "id": 24,
-      "nome": "Mini vaso de cerâmica",
-      "descricao": "Efeito esmaltado estilo granilite amarelo.",
-      "valor": "R$ 8,00",
+      "nome": "Banco cooler amarelo",
+      "descricao": "Pequeno quebradinho na lateral.",
+      "valor": "R$ 25,00",
       "imagens": [
-        "miniv.jpeg"
+        "bancoa.jpeg",
+        "bancoa2.jpeg",
+        "bancoa3.jpeg"
       ]
     },
     {
@@ -239,11 +242,12 @@ window.__ANA_FURNITURE={
     },
     {
       "id": 29,
-      "nome": "Luminária de mesa",
-      "descricao": "Articulada com haste flexível em espiral (pescoço de ganso) com lâmpada.",
-      "valor": "R$ 18,00",
+      "nome": "Moedor de café elétrico",
+      "descricao": "Cadence Di Grano, caixa original.",
+      "valor": "R$ 62,00",
       "imagens": [
-        "lu2.jpeg"
+        "moedor.jpeg",
+        "moedor2.jpeg"
       ]
     },
     {
