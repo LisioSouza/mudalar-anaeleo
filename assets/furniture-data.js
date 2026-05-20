@@ -174,11 +174,11 @@ window.__ANA_FURNITURE={
     },
     {
       "id": 22,
-      "nome": "Manequim articulado de madeira",
-      "descricao": "Para decoração. GESTALTA - modelo oficial da IKEA/Sweden 33cm de altura.",
-      "valor": "R$ 40,00",
+      "nome": "Filtro/coador de café",
+      "descricao": "Reutilizável em aço inox dispensa o uso de filtro de papel.",
+      "valor": "R$ 11,90",
       "imagens": [
-        "man.jpeg"
+        "filtro.jpeg"
       ]
     },
     {
