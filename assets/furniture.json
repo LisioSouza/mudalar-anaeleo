@@ -21,11 +21,11 @@
     },      
     {
       "id": 1,
-      "nome": "Bancos de madeira",
-      "descricao": "Madeira Maciça.",
-      "valor": "R$ 185,00 - o conjunto / R$ 95,00 - a unidade",
+      "nome": "Porta-retratos ou moldura",
+      "descricao": "MDF cru formato de gatinho.",
+      "valor": "R$ 5,00",
       "imagens": [
-        "banco-m.jpeg"
+        "portar.jpeg"
       ]
     },
     {
@@ -51,18 +51,18 @@
     },
     {
       "id": 5,
-      "nome": "Nadadeira curta",
-      "descricao": "Speedo 36 Nova - modelo de pala curta em silicone.",
-      "valor": "R$ 179,00",
+      "nome": "Kit de Utensílios de Cozinha",
+      "descricao": "Aço Inox - 6 Peças: ​1 Faca/cortador de pizza, ​1 Espátula para bolo/tortas (Gateau), ​1 Faca para queijo (Cheese), ​1 Faca para queijos com furos (evita que o queijo grude), ​1 Escumadeira grande, ​1 Descascador de legumes - Minimo desgate .",
+      "valor": "R$ 30,00",
       "imagens": [
-        "nada.jpeg"      
+        "kit.jpeg"      
       ]
     },
    {
       "id": 6,
       "nome": "Freezer vertical",
       "descricao": "Brastemp Flex Frost Free de 228 Litros, aço escovado. Obs: modo freezer ou refrigerador, informações na segunda imagem.",
-      "valor": "R$ 1.900,00",
+      "valor": "R$ 1.300,00",
       "imagens": [
         "freezer.jpeg",
         "info.jpg"
@@ -99,11 +99,11 @@
     },
     {
       "id": 10,
-      "nome": "Secador de cabelo",
-      "descricao": "Tamanho convencional da Britânia, modelo SP 1300 Tourmaline Ion.",
-      "valor": "R$ 40,00",
+      "nome": "Vaso de vidro",
+      "descricao": "Oval estilo aquário, 30 cm - Com ou sem rolhas.",
+      "valor": "R$ 30,00",
       "imagens": [
-        "sec.jpeg"
+        "vas.jpeg"
       
       ]
     },
@@ -128,19 +128,19 @@
     {
       "id": 13,
       "nome": "Placa decorativa",
-      "descricao": "pintura em Madeira Rústica/Pinus.",
+      "descricao": "Metal  canadense.",
       "valor": "R$ 15,00",
       "imagens": [
-        "placa.jpeg"
+        "placa2.jpeg"
       ]
     },
     {
       "id": 14,
-      "nome": "TV",
-      "descricao": "Sony Bravia 32''. Obs: não é tv smart.",
-      "valor": "R$ 400,00",
+      "nome": "Petisqueira ou mini travessa",
+      "descricao": "Vidro transparente com borda de corações.",
+      "valor": "R$ 8,00",
       "imagens": [
-        "tv2.jpg"
+        "pet.jpg"
       ]
     },
     {
@@ -154,24 +154,22 @@
     },
     {
       "id": 20,
-      "nome": "Pipoqueira de micro-ondas",
-      "descricao": "Marca Zap Chef (modelo Pipoca Fácil). Nova com manual.",
-      "valor": "R$ 20,00",
+      "nome": "Caixinha decorativa",
+      "descricao": "Porta-joias de MDF estampa super colorida de pop art do Rio.",
+      "valor": "R$ 12,00",
       "imagens": [
-        "pip.jpeg",
-        "pip2.jpeg"
-      ]
+        "cax.jpeg",
+        "cax2.jpeg"
+    ]
     },
     {
       "id": 21,
-      "nome": "Bomboniere",
-      "descricao": "Cristal ecológico.",
-      "valor": "R$ 18,00",
+      "nome": "Pegador culinário",
+      "descricao": "Silicone aço inox cabo emborrachado.",
+      "valor": "R$ 8,00",
       "imagens": [
-        "bom.jpeg",
-        "bom2.jpeg",
-        "bom3.jpeg"
-      ]
+        "peg.jpeg"
+    ]
     },
     {
       "id": 22,
@@ -206,31 +204,30 @@
     },
     {
       "id": 25,
-      "nome": "Mini vaso de cerâmica",
-      "descricao": "Cerâmica rústica,  arte rupestre.",
+      "nome": "Porta guardanapo",
+      "descricao": " OU Plástico vermelho.",
       "valor": "R$ 8,00",
       "imagens": [
-        "miniv2.jpeg"
+        "port.jpeg"
       ]
     },
     {
       "id": 26,
-      "nome": "Vaso decorativo",
-      "descricao": "Cerâmica da Etna (modelo torre/coluna quadrada), estampa urbana de Nova York. Altura 36cm.",
-      "valor": "R$ 39,00",
+      "nome": "Organizador e suporte",
+      "descricao": "Para joias/bijuterias Pretty Little Things, marca de design Umbra. Altura 36cm.",
+      "valor": "R$ 35,00",
       "imagens": [
-        "vaso.jpeg",
-        "vaso2.jpeg"
+        "org.jpeg"
       ]
     },
     {
       "id": 27,
-      "nome": "Garrafa térmica",
-      "descricao": "Clássica da marca Aladdin capacidade de 1 litro.",
-      "valor": "R$ 11,99",
+      "nome": "Copo/porta-vela",
+      "descricao": "Vidro grosso triangular (vinho/bordô).",
+      "valor": "R$ 8,00",
       "imagens": [
-        "gar.jpeg",
-        "gar2.jpeg"
+        "vid.jpeg",
+        "vid2.jpeg"
      ]
     },
     {
@@ -269,6 +266,55 @@
       "imagens": [
         "cam.jpeg",
         "cam2.jpeg"
+      ]
+    },
+    {
+      "id": 33,
+      "nome": "Pegador de gelo",
+      "descricao": "Aço inox com dentes (garra).",
+      "valor": "R$ 7,00",
+      "imagens": [
+        "peg2.jpeg",
+        "peg3.jpeg"
+      ]
+    },
+    {
+      "id": 34,
+      "nome": "Canudos reutilizáveis",
+      "descricao": "Aço inox.",
+      "valor": "R$ 5,00",
+      "imagens": [
+        "can3.jpeg"
+        
+      ]
+    },
+    {
+      "id": 35,
+      "nome": "Cesta organizadora",
+      "descricao": "Plástica com estampa em alto-relevo de estilo vintage/francês (Maison Clément / Pâtisserie Confiserie).",
+      "valor": "R$ 5,90",
+      "imagens": [
+        "cesta.jpeg",
+        "cesta2.jpeg"
+        
+      ]
+    },
+    {
+      "id": 36,
+      "nome": "Mini caixa",
+      "descricao": "organizadora dobrável vermelha (estilo engradado ou folding crate).",
+      "valor": "R$ 4,90",
+      "imagens": [
+        "mini.jpeg"
+      ]
+    },
+    {
+      "id": 37,
+      "nome": "Forma de silicone",
+      "descricao": "Para Bombom / Chocolate - 15 Cavidades.",
+      "valor": "R$ 8,00",
+      "imagens": [
+        "forma.jpeg"
       ]
     }
   ]
