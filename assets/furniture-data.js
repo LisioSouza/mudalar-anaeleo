@@ -124,15 +124,6 @@ window.__ANA_FURNITURE={
       ]
     },
     {
-      "id": 22,
-      "nome": "Filtro/coador de café",
-      "descricao": "Reutilizável em aço inox dispensa o uso de filtro de papel.",
-      "valor": "R$ 11,90",
-      "imagens": [
-        "filtro.jpeg"
-      ]
-    },
-    {
       "id": 25,
       "nome": "Porta guardanapo",
       "descricao": " OU Plástico vermelho.",
@@ -290,7 +281,7 @@ window.__ANA_FURNITURE={
       "id": 44,
       "nome": "Kit de Frescobol da Oxer",
       "descricao": "Duas raquetes de madeira (MDF/Pinus) e uma bolinha de borracha azul.",
-      "valor": "R$ 4,30",
+      "valor": "R$ 10,00",
       "imagens": [
         "raq.jpeg"
       ]
@@ -351,15 +342,6 @@ window.__ANA_FURNITURE={
       "imagens": [
         "conj.jpeg",
         "conj2.jpeg"
-      ]
-    },
-    {
-      "id": 51,
-      "nome": "Mini leiteira de cerâmica",
-      "descricao": "Mini leiteira de cerâmica.",
-      "valor": "R$ 14,99",
-      "imagens": [
-        "lei.jpeg"
       ]
     },
     {
