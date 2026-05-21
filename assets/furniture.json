@@ -34,8 +34,8 @@
     {
       "id": 5,
       "nome": "Kit de Utensílios de Cozinha",
-      "descricao": "Aço Inox - 6 Peças: ​1 Faca/cortador de pizza, ​1 Espátula para bolo/tortas (Gateau), ​1 Faca para queijo (Cheese), ​1 Faca para queijos com furos (evita que o queijo grude), ​1 Escumadeira grande, ​1 Descascador de legumes - Minimo desgate .",
-      "valor": "R$ 30,00",
+      "descricao": "Aço Inox - 6 Peças: ​1 Faca/cortador de pizza, ​1 Espátula para bolo/tortas (Gateau), ​1 Faca para queijo (Cheese), ​1 Faca para queijos com furos (evita que o queijo grude), ​1 Escumadeira grande, ​1 Descascador de legumes - Minimo desgate.",
+      "valor": "R$ 28,00",
       "imagens": [
         "kit.jpeg"      
       ]
@@ -63,7 +63,7 @@
       "id": 10,
       "nome": "Vaso de vidro",
       "descricao": "Oval estilo aquário, 30 cm - Com ou sem rolhas.",
-      "valor": "R$ 30,00",
+      "valor": "R$ 28,00",
       "imagens": [
         "vas.jpeg"
       
@@ -73,7 +73,7 @@
       "id": 11,
       "nome": "Rack",
       "descricao": "Rack laca preta e madeira. Medidas: 2,40m x 0,55m x 0,50m com possibilidade de aumentar o comprimento.",
-      "valor": "R$ 1.260,00",
+      "valor": "R$ 1.060,00",
       "imagens": [
         "rack.jpeg"
       ]
@@ -146,7 +146,7 @@
       "id": 26,
       "nome": "Organizador e suporte",
       "descricao": "Para joias/bijuterias Pretty Little Things, marca de design Umbra. Altura 36cm.",
-      "valor": "R$ 35,00",
+      "valor": "R$ 31,00",
       "imagens": [
         "org.jpeg"
       ]
@@ -229,6 +229,153 @@
       "imagens": [
         "forma.jpeg"
       ]
+    },
+    {
+      "id": 38,
+      "nome": "Google Chromecast",
+      "descricao": "1ª Geração na caixa.",
+      "valor": "R$ 58,00",
+      "imagens": [
+        "cro.jpeg",
+        "cro2.jpeg"
+      ]
+    },
+    {
+      "id": 39,
+      "nome": "Vaso oliva branco leitoso",
+      "descricao": "Murano de 30cm com base de vidro maciço transparente.",
+      "valor": "R$ 98,00",
+      "imagens": [
+        "vass.jpeg",
+        "vas2.jpeg"
+      ]
+    },
+    {
+      "id": 40,
+      "nome": "Caixa decorativa",
+      "descricao": "Organizadora MDF decoupagem.",
+      "valor": "R$ 8,00",
+      "imagens": [
+        "cx.jpeg",
+        "cx2.jpeg"
+      ]
+    },
+    {
+      "id": 41,
+      "nome": "Panela de barro",
+      "descricao": "Grande tradicional usada uma vez.",
+      "valor": "R$ 18,00",
+      "imagens": [
+        "pan.jpeg",
+        "pan2.jpeg"
+      ]
+    },
+    {
+      "id": 42,
+      "nome": "Massageador Facial",
+      "descricao": "Elétrico de Silicone da marca Clean Skin (modelo LY87131), para limpeza profunda da pele e massagem facial através de vibração.",
+      "valor": "R$ 11,99",
+      "imagens": [
+        "mass.jpeg",
+        "mass2.jpeg"
+      ]
+    },
+    {
+      "id": 43,
+      "nome": "Mini bomboniere de vidro",
+      "descricao": "Mini bomboniere de vidro.",
+      "valor": "R$ 4,30",
+      "imagens": [
+        "bomm.jpeg"
+    ]
+    },
+    {
+      "id": 44,
+      "nome": "Kit de Frescobol da Oxer",
+      "descricao": "Duas raquetes de madeira (MDF/Pinus) e uma bolinha de borracha azul.",
+      "valor": "R$ 4,30",
+      "imagens": [
+        "raq.jpeg"
+    ]
+    },
+    {
+      "id": 45,
+      "nome": "Balança Digital de Mão",
+      "descricao": "Mala de Viagem da marca Tomate, capacidade de até 50 kg.",
+      "valor": "R$ 13,99",
+      "imagens": [
+        "ba.jpeg"
+    ]
+    },
+    {
+      "id": 46,
+      "nome": "Almofadas de assento",
+      "descricao": "Quadradas na cor azul-clara marca futton. Usadas.",
+      "valor": "R$ 18,00 - 03 unidades",
+      "imagens": [
+        "almo.jpeg"
+    ]
+    },
+    {
+      "id": 47,
+      "nome": "Almofada usada",
+      "descricao": "Tecido algodao rústico, azul clara.",
+      "valor": "R$ 5,70",
+      "imagens": [
+        "almo2.jpeg"
+    ]
+    },
+    {
+      "id": 48,
+      "nome": "2 Prateleiras canaletas",
+      "descricao": "Estilo calha, ideais para quadros e livros - 1 metro x 10cm.",
+      "valor": "R$ 36,00 - as duas",
+      "imagens": [
+        "prate.jpeg",
+        "prate2.jpeg"
+    ]
+    },
+    {
+      "id": 49,
+      "nome": "Almofadas retangulares",
+      "descricao": "Capas em otimo estado tecido levemente brilhoso.50x38cm.",
+      "valor": "R$ 18,00 - kit com 02 - R$ 31,99 - kit com 04",
+      "imagens": [
+        "almo4.jpeg",
+        "almo5.jpeg",
+        "almo3.jpeg"
+    ]
+    },
+    {
+      "id": 50,
+      "nome": "Conjunto de 3 taças de sobremesa médias",
+      "descricao": "Home Style/Camicado.",
+      "valor": "R$ 21,90",
+      "imagens": [
+        "conj.jpeg",
+        "conj2.jpeg"
+       
+    ]
+    },
+    {
+      "id": 51,
+      "nome": "Mini leiteira de cerâmica",
+      "descricao": "Mini leiteira de cerâmica.",
+      "valor": "R$ 14,99",
+      "imagens": [
+        "lei.jpeg"
+           
+    ]
+    },
+    {
+      "id": 52,
+      "nome": "Balança digital de banheiro",
+      "descricao": "plataforma de vidro temperado preto.​Marca Serene. ​Capacidade Máxima: 180 kg",
+      "valor": "R$ 18,00",
+      "imagens": [
+        "bal.jpeg"
+           
+    ]
     }
   ]
 }
