@@ -310,8 +310,8 @@ window.__ANA_FURNITURE={
       "descricao": "Estilo calha, ideais para quadros e livros - 1 metro x 10cm.",
       "valor": "R$ 36,00 - as duas",
       "imagens": [
-        "prate.jpeg",
-        "prate2.jpeg"
+        "prate2.jpeg",
+        "prate.jpeg"
       ]
     },
     {
