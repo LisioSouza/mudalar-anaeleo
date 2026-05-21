@@ -338,10 +338,94 @@ window.__ANA_FURNITURE={
     {
       "id": 52,
       "nome": "Balança digital de banheiro",
-      "descricao": "plataforma de vidro temperado preto.​Marca Serene. ​Capacidade Máxima: 180 kg",
+      "descricao": "Plataforma de vidro temperado preto.​Marca Serene. ​Capacidade Máxima: 180 kg.",
       "valor": "R$ 18,00",
       "imagens": [
         "bal.jpeg"
+      ]
+    },
+    {
+      "id": 53,
+      "nome": "Quadro pintado à mão",
+      "descricao": "tamanho 50 x 50 cm artesanal (com texturas e corações).",
+      "valor": "R$ 41,90",
+      "imagens": [
+        "qua.jpeg"
+      ]
+    },
+    {
+      "id": 54,
+      "nome": "Tapete de yoga",
+      "descricao": "EVA Fino.",
+      "valor": "R$ 18,90",
+      "imagens": [
+        "tap.jpeg",
+        "tap2.jpeg"
+      ]
+    },
+    {
+      "id": 55,
+      "nome": "Cocho de madeira",
+      "descricao": "Madeira maciça rústica(floreira) - 82cm de comprimento × 35 cm de largura × 28 cm de altura).",
+      "valor": "R$ 61,00",
+      "imagens": [
+        "cocho.jpeg",
+        "cocho2.jpeg",
+        "cocho3.jpeg"
+      ]
+    },
+    {
+      "id": 56,
+      "nome": "Par de descansos/porta-panelas",
+      "descricao": "Material silicone cor laranja - 16cm x 16cm.",
+      "valor": "R$ 10,24",
+      "imagens": [
+        "par.jpeg"
+      ]
+    },
+    {
+      "id": 57,
+      "nome": "Par de descanso de panela",
+      "descricao": "Madeira Articulado - 18cm x 20cm.",
+      "valor": "R$ 9,90",
+      "imagens": [
+        "par2.jpeg"
+      ]
+    },
+    {
+      "id": 58,
+      "nome": "Tapete passadeira",
+      "descricao": "Antiderrapante Grande - 180cm x 65cm.",
+      "valor": "R$ 29,90",
+      "imagens": [
+        "tape.jpeg"
+      ]
+    },
+    {
+      "id": 59,
+      "nome": "Almofada Rolo",
+      "descricao": "Cama Casal / Rolo Turbilhão Bege Acetinado - 1,40m.",
+      "valor": "R$ 31,90",
+      "imagens": [
+        "rolo.jpeg"
+      ]
+    },
+    {
+      "id": 60,
+      "nome": "Conjunto com 4 peças",
+      "descricao": "02 fruteiras/petisqueiras maiores em formato de folha e 02 tigelas menores fibra de bambu prensada.",
+      "valor": "R$ 28,90",
+      "imagens": [
+        "frut.jpeg"
+      ]
+    },
+    {
+      "id": 61,
+      "nome": "Capacho",
+      "descricao": "Fibra de Coco Gato / Tapete de Entrada Pet - 75cm x 45cm.",
+      "valor": "R$ 22,90",
+      "imagens": [
+        "capa.jpeg"
       ]
     }
   ]
