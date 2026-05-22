@@ -78,19 +78,6 @@
       ]
     },
     {
-      "id": 11,
-      "nome": "Rack",
-      "descricao": "Rack laca preta e madeira. Medidas: 2,40m x 0,55m x 0,50m com possibilidade de aumentar o comprimento. OBS: O preço de um rack NOVO com esse material é: R$ 3.500,00. Estamos com um super desconto. Clique nas setinhas laterais para ver todas as imagens.",
-      "valor": "R$ 900,00",
-      "imagens": [
-        "rack.jpeg",
-        "rack2.jpeg",
-        "rack3.jpeg",
-        "rack4.jpeg",
-        "rack5.jpeg"
-      ]
-    },
-    {
       "id": 12,
       "nome": "Copos de vidro",
       "descricao": "2 copos com tarja para escrita em giz.",
