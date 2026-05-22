@@ -13,22 +13,24 @@
     {
       "id": 2,
       "nome": "Cadeiras vermelhas",
-      "descricao": "Eames Arm Shell com Base Eiffel de acrílico vermelha e base metal - Tok & Stok.",
+      "descricao": "Eames Arm Shell com Base Eiffel de acrílico vermelha e base metal - Tok & Stok. Clique nas setinhas laterais para ver todas as imagens.",
       "valor": "R$ 229,00 - a unidade",
       "imagens": [
         "cadeira-a.jpeg",
         "cadeira-a2.jpeg",
         "cadeira-a3.jpeg",
-        "cadeira-a4.jpeg"
+        "cadeira-a4.jpeg",
+        "todos.jpeg"
       ]
     },
     {
       "id": 3,
       "nome": "Cadeira Tramontina vermelha",
-      "descricao": "Cadeira Tramontina Vermelha Sofia.",
-      "valor": "R$ 116,00",
+      "descricao": "Cadeira Tramontina Vermelha Summa Sofia. Clique nas setinhas laterais para ver todas as imagens.",
+      "valor": "R$ 106,00",
       "imagens": [
         "cadeira-p.jpeg",
+        "cadeira-p3.jpeg",
         "cadeira-p2.jpeg"
       ]
     },
@@ -43,19 +45,21 @@
     },
     {
       "id": 8,
-      "nome": "Mesa de madeira",
-      "descricao": "Mesa de madeira preta e vidro temperado, rodinhas de silicone. Medidas: 82cm x 54cm x 18cm(a). O precço de",
-      "valor": "R$ 200,00",
+      "nome": "Mesinha de madeira",
+      "descricao": "Mesa de madeira preta e vidro temperado, rodinhas de silicone. Medidas: 82cm x 54cm x 18cm(a). Clique nas setinhas laterais para ver todas as imagens.",
+      "valor": "R$ 189,00",
       "imagens": [
+        "mesa-madeira4.jpeg",
         "mesa-madeira3.jpeg",
+        "mesa-madeira2.jpeg",
         "mesa-madeira.jpeg",
-        "mesa-madeira2.jpeg"
+        "todos.jpeg"
       ]
     },
     {
       "id": 9,
       "nome": "Mesa lateral redonda",
-      "descricao": "Vidro temperado e aluminio, com regulagem de altura. Medidas: 55 diâmetro x 60 de altura. O preço de uma mesa nova é: R$ 500,00. Estamos com um super desconto. Clique nas setinhas laterais para ver todas as imagens",
+      "descricao": "Vidro temperado e aluminio, com regulagem de altura. Medidas: 55 diâmetro x 60 de altura. O preço de uma mesa nova é: R$ 500,00. Estamos com um super desconto. Clique nas setinhas laterais para ver todas as imagens.",
       "valor": "R$ 210,00",
       "imagens": [
         "mesa-vidro2.jpeg",
@@ -76,7 +80,7 @@
     {
       "id": 11,
       "nome": "Rack",
-      "descricao": "Rack laca preta e madeira. Medidas: 2,40m x 0,55m x 0,50m com possibilidade de aumentar o comprimento. OBS: O preço de um rack NOVO com esse material é: R$ 3.500,00. Estamos com um super desconto. Clique nas setinhas laterais para ver todas as imagens",
+      "descricao": "Rack laca preta e madeira. Medidas: 2,40m x 0,55m x 0,50m com possibilidade de aumentar o comprimento. OBS: O preço de um rack NOVO com esse material é: R$ 3.500,00. Estamos com um super desconto. Clique nas setinhas laterais para ver todas as imagens.",
       "valor": "R$ 900,00",
       "imagens": [
         "rack.jpeg",
@@ -135,7 +139,7 @@
     {
       "id": 25,
       "nome": "Porta guardanapo",
-      "descricao": " OU Plástico vermelho.",
+      "descricao": "OU Plástico vermelho.",
       "valor": "R$ 8,00",
       "imagens": [
         "port.jpeg"
@@ -144,7 +148,7 @@
     {
       "id": 26,
       "nome": "Organizador e suporte",
-      "descricao": "Para joias/bijuterias Pretty Little Things, marca de design Umbra. Altura 36cm.",
+      "descricao": "Para jóias/bijuterias Pretty Little Things, marca de design Umbra. Altura 36cm.",
       "valor": "R$ 31,00",
       "imagens": [
         "org.jpeg"
@@ -174,7 +178,7 @@
       "id": 31,
       "nome": "Câmera Canon",
       "descricao": "Semi-profissional (bridge) - Canon PowerShot SX500 IS (com zoom óptico de 30x e 16 megapixels), acompanhada de alça e bolsa de transporte, bateria e carregador original.",
-      "valor": "R$ 629,00",
+      "valor": "R$ 609,00",
       "imagens": [
         "cam.jpeg",
         "cam2.jpeg"
@@ -214,7 +218,7 @@
     {
       "id": 36,
       "nome": "Mini caixa",
-      "descricao": "organizadora dobrável vermelha (estilo engradado ou folding crate).",
+      "descricao": "Organizadora dobrável vermelha (estilo engradado ou folding crate).",
       "valor": "R$ 4,90",
       "imagens": [
         "mini.jpeg"
@@ -360,7 +364,7 @@
     {
       "id": 53,
       "nome": "Quadro pintado à mão",
-      "descricao": "tamanho 50 x 50 cm artesanal (com texturas e corações).",
+      "descricao": "Tamanho 50 x 50 cm artesanal (com texturas e corações).",
       "valor": "R$ 41,90",
       "imagens": [
         "qua.jpeg"
