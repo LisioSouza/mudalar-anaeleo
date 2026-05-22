@@ -21,7 +21,7 @@ const items = Array.isArray(data.items)
       descricao: item && item.descricao != null ? String(item.descricao) : 'Descreva o móvel, medidas e estado de conservação.',
       valor: item && item.valor != null ? String(item.valor) : 'R$ 0,00',
       imagens: Array.isArray(item && item.imagens)
-        ? item.imagens.map((img) => String(img || '').trim()).filter(Boolean).slice(0, 3)
+        ? item.imagens.map((img) => String(img || '').trim()).filter(Boolean).slice(0, 5)
         : [],
     }))
   : [];

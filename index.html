@@ -153,7 +153,7 @@
 
 <!-- Móveis disponíveis: itens gerados a partir de assets/furniture-data.js -->
 <section id="moveis" class="flex flex-col gap-stack-lg" aria-labelledby="moveis-titulo">
-<p id="moveis-count" class="font-headline-lg-mobile text-headline-lg-mobile text-primary serif leading-tight blink-alert">0 itens para venda</p>
+<p id="moveis-count" class="font-headline-lg-mobile text-headline-lg-mobile text-primary serif leading-tight blink-alert">0 itens para venda - últimos itens!</p>
 <h3 id="moveis-titulo" class="font-headline-md text-headline-md text-secondary serif border-b border-outline-variant/30 pb-4">Móveis Disponíveis</h3>
 <div id="moveis-list" class="flex flex-col gap-stack-lg"></div>
 </section>
@@ -248,7 +248,7 @@
   }
 
   function wireCarousel(root, nSlides) {
-    var n = Math.max(1, Math.min(3, nSlides | 0));
+    var n = Math.max(1, Math.min(5, nSlides | 0));
     var tr = root.querySelector('[data-fc-tr]');
     var dots = root.querySelector('[data-fc-dots]');
     var prev = root.querySelector('[data-fc-prev]');
@@ -285,7 +285,7 @@
   function buildSlideImages(imagens) {
     var raw = Array.isArray(imagens) ? imagens : [];
     var out = [];
-    for (var i = 0; i < raw.length && out.length < 3; i++) {
+    for (var i = 0; i < raw.length && out.length < 5; i++) {
       if (raw[i] != null && String(raw[i]).trim()) out.push(String(raw[i]).trim());
     }
     return out;

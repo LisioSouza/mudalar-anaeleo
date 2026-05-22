@@ -12,13 +12,14 @@ window.__ANA_FURNITURE={
     },
     {
       "id": 2,
-      "nome": "Cadeira vermelha",
+      "nome": "Cadeiras vermelhas",
       "descricao": "Eames Arm Shell com Base Eiffel de acrílico vermelha e base metal - Tok & Stok.",
       "valor": "R$ 229,00 - a unidade",
       "imagens": [
         "cadeira-a.jpeg",
         "cadeira-a2.jpeg",
-        "cadeira-a3.jpeg"
+        "cadeira-a3.jpeg",
+        "cadeira-a4.jpeg"
       ]
     },
     {
@@ -43,9 +44,10 @@ window.__ANA_FURNITURE={
     {
       "id": 8,
       "nome": "Mesa de madeira",
-      "descricao": "Mesa de madeira preta e vidro temperado, rodinhas de silicone. Medidas: 82cm x 54cm x 18cm(a).",
+      "descricao": "Mesa de madeira preta e vidro temperado, rodinhas de silicone. Medidas: 82cm x 54cm x 18cm(a). O precço de",
       "valor": "R$ 200,00",
       "imagens": [
+        "mesa-madeira3.jpeg",
         "mesa-madeira.jpeg",
         "mesa-madeira2.jpeg"
       ]
@@ -53,10 +55,12 @@ window.__ANA_FURNITURE={
     {
       "id": 9,
       "nome": "Mesa lateral redonda",
-      "descricao": "Vidro temperado e aluminio, com regulagem de altura. Medidas: 55 diâmetro x 60 de altura.",
+      "descricao": "Vidro temperado e aluminio, com regulagem de altura. Medidas: 55 diâmetro x 60 de altura. O preço de uma mesa nova é: R$ 500,00. Estamos com um super desconto. Clique nas setinhas laterais para ver todas as imagens",
       "valor": "R$ 210,00",
       "imagens": [
-        "mesa-vidro.jpeg"
+        "mesa-vidro2.jpeg",
+        "mesa-vidro.jpeg",
+        "mesa-vidro3.jpeg"
       ]
     },
     {
@@ -71,10 +75,14 @@ window.__ANA_FURNITURE={
     {
       "id": 11,
       "nome": "Rack",
-      "descricao": "Rack laca preta e madeira. Medidas: 2,40m x 0,55m x 0,50m com possibilidade de aumentar o comprimento.",
-      "valor": "R$ 1.060,00",
+      "descricao": "Rack laca preta e madeira. Medidas: 2,40m x 0,55m x 0,50m com possibilidade de aumentar o comprimento. OBS: O preço de um rack NOVO com esse material é: R$ 3.500,00. Estamos com um super desconto. Clique nas setinhas laterais para ver todas as imagens",
+      "valor": "R$ 900,00",
       "imagens": [
-        "rack.jpeg"
+        "rack.jpeg",
+        "rack2.jpeg",
+        "rack3.jpeg",
+        "rack4.jpeg",
+        "rack5.jpeg"
       ]
     },
     {
