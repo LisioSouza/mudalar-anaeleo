@@ -5,62 +5,34 @@
       "id": 1,
       "nome": "Porta-retratos ou moldura",
       "descricao": "MDF cru formato de gatinho.",
-      "valor": "R$ 5,00",
+      "valor": "R$ 4,15",
       "imagens": [
         "portar.jpeg"
       ]
     },
     {
       "id": 2,
-      "nome": "Cadeiras vermelhas",
-      "descricao": "Eames Arm Shell com Base Eiffel de acrílico vermelha e base metal - Tok & Stok. Clique nas setinhas laterais para ver todas as imagens.",
-      "valor": "R$ 229,00 - a unidade",
+      "nome": "Caneca Starbucks Grécia",
+      "descricao": "Coleção Especial You Are Here",
+      "valor": "R$ 31,90",
       "imagens": [
-        "cadeira-a.jpeg",
-        "cadeira-a2.jpeg",
-        "cadeira-a3.jpeg",
-        "cadeira-a4.jpeg",
-        "todos.jpeg"
-      ]
-    },
-    {
-      "id": 3,
-      "nome": "Cadeira Tramontina vermelha",
-      "descricao": "Cadeira Tramontina Vermelha Summa Sofia. Clique nas setinhas laterais para ver todas as imagens.",
-      "valor": "R$ 106,00",
-      "imagens": [
-        "cadeira-p.jpeg",
-        "cadeira-p3.jpeg",
-        "cadeira-p2.jpeg"
+        "canec.jpeg"      
       ]
     },
     {
       "id": 5,
       "nome": "Kit de Utensílios de Cozinha",
       "descricao": "Aço Inox - 6 Peças: ​1 Faca/cortador de pizza, ​1 Espátula para bolo/tortas (Gateau), ​1 Faca para queijo (Cheese), ​1 Faca para queijos com furos (evita que o queijo grude), ​1 Escumadeira grande, ​1 Descascador de legumes - Minimo desgate.",
-      "valor": "R$ 28,00",
+      "valor": "R$ 19,90",
       "imagens": [
         "kit.jpeg"      
-      ]
-    },
-    {
-      "id": 8,
-      "nome": "Mesinha de madeira",
-      "descricao": "Mesa de madeira preta e vidro temperado, rodinhas de silicone. Medidas: 82cm x 54cm x 18cm(a). Clique nas setinhas laterais para ver todas as imagens.",
-      "valor": "R$ 189,00",
-      "imagens": [
-        "mesa-madeira4.jpeg",
-        "mesa-madeira3.jpeg",
-        "mesa-madeira2.jpeg",
-        "mesa-madeira.jpeg",
-        "todos.jpeg"
       ]
     },
     {
       "id": 9,
       "nome": "Mesa lateral redonda",
       "descricao": "Vidro temperado e aluminio, com regulagem de altura. Medidas: 55 diâmetro x 60 de altura. O preço de uma mesa nova é: R$ 500,00. Estamos com um super desconto. Clique nas setinhas laterais para ver todas as imagens.",
-      "valor": "R$ 210,00",
+      "valor": "R$ 190,00",
       "imagens": [
         "mesa-vidro2.jpeg",
         "mesa-vidro.jpeg",
@@ -71,37 +43,19 @@
       "id": 10,
       "nome": "Vaso de vidro",
       "descricao": "Oval estilo aquário, 30 cm - Com ou sem rolhas.",
-      "valor": "R$ 28,00",
+      "valor": "R$ 19,90",
       "imagens": [
         "vas.jpeg"
       
       ]
     },
     {
-      "id": 12,
-      "nome": "Copos de vidro",
-      "descricao": "2 copos com tarja para escrita em giz.",
-      "valor": "R$ 10,00",
-      "imagens": [
-        "copos.jpeg"
-      ]
-    },
-    {
       "id": 13,
       "nome": "Placa decorativa",
       "descricao": "Metal  canadense.",
-      "valor": "R$ 15,00",
+      "valor": "R$ 9,90",
       "imagens": [
         "placa2.jpeg"
-      ]
-    },
-    {
-      "id": 14,
-      "nome": "Petisqueira ou mini travessa",
-      "descricao": "Vidro transparente com borda de corações.",
-      "valor": "R$ 8,00",
-      "imagens": [
-        "pet.jpeg"
       ]
     },
     {
@@ -136,7 +90,7 @@
       "id": 26,
       "nome": "Organizador e suporte",
       "descricao": "Para jóias/bijuterias Pretty Little Things, marca de design Umbra. Altura 36cm.",
-      "valor": "R$ 31,00",
+      "valor": "R$ 24,90",
       "imagens": [
         "org.jpeg"
       ]
@@ -152,16 +106,6 @@
      ]
     },
     {
-      "id": 29,
-      "nome": "Moedor de café elétrico",
-      "descricao": "Cadence Di Grano, caixa original.",
-      "valor": "R$ 62,00",
-      "imagens": [
-        "moedor.jpeg",
-        "moedor2.jpeg"
-      ]
-    },
-    {
       "id": 31,
       "nome": "Câmera Canon",
       "descricao": "Semi-profissional (bridge) - Canon PowerShot SX500 IS (com zoom óptico de 30x e 16 megapixels), acompanhada de alça e bolsa de transporte, bateria e carregador original.",
@@ -169,16 +113,6 @@
       "imagens": [
         "cam.jpeg",
         "cam2.jpeg"
-      ]
-    },
-    {
-      "id": 33,
-      "nome": "Pegador de gelo",
-      "descricao": "Aço inox com dentes (garra).",
-      "valor": "R$ 7,00",
-      "imagens": [
-        "peg2.jpeg",
-        "peg3.jpeg"
       ]
     },
     {
@@ -251,51 +185,14 @@
       ]
     },
     {
-      "id": 41,
-      "nome": "Panela de barro",
-      "descricao": "Grande tradicional usada uma vez.",
-      "valor": "R$ 18,00",
-      "imagens": [
-        "pan.jpeg",
-        "pan2.jpeg"
-      ]
-    },
-    {
       "id": 42,
       "nome": "Massageador Facial",
       "descricao": "Elétrico de Silicone da marca Clean Skin (modelo LY87131), para limpeza profunda da pele e massagem facial através de vibração.",
-      "valor": "R$ 11,99",
+      "valor": "R$ 9,90",
       "imagens": [
         "mass.jpeg",
         "mass2.jpeg"
       ]
-    },
-    {
-      "id": 43,
-      "nome": "Mini bomboniere de vidro",
-      "descricao": "Mini bomboniere de vidro.",
-      "valor": "R$ 4,30",
-      "imagens": [
-        "bomm.jpeg"
-    ]
-    },
-    {
-      "id": 45,
-      "nome": "Balança Digital de Mão",
-      "descricao": "Mala de Viagem da marca Tomate, capacidade de até 50 kg.",
-      "valor": "R$ 13,99",
-      "imagens": [
-        "ba.jpeg"
-    ]
-    },
-    {
-      "id": 46,
-      "nome": "Almofadas de assento",
-      "descricao": "Quadradas na cor azul-clara marca futton. Usadas.",
-      "valor": "R$ 18,00 - 03 unidades",
-      "imagens": [
-        "almo.jpeg"
-    ]
     },
     {
       "id": 47,
@@ -310,7 +207,7 @@
       "id": 48,
       "nome": "2 Prateleiras canaletas",
       "descricao": "Estilo calha, ideais para quadros e livros - 1 metro x 10cm.",
-      "valor": "R$ 36,00 - as duas",
+      "valor": "R$ 29,90 - as duas",
       "imagens": [
         "prate2.jpeg",
         "prate.jpeg"
@@ -328,17 +225,6 @@
     ]
     },
     {
-      "id": 50,
-      "nome": "Conjunto de 3 taças de sobremesa médias",
-      "descricao": "Home Style/Camicado.",
-      "valor": "R$ 21,90",
-      "imagens": [
-        "conj.jpeg",
-        "conj2.jpeg"
-       
-    ]
-    },
-    {
       "id": 52,
       "nome": "Balança digital de banheiro",
       "descricao": "Plataforma de vidro temperado preto.​Marca Serene. ​Capacidade Máxima: 180 kg.",
@@ -349,20 +235,10 @@
     ]
     },
     {
-      "id": 53,
-      "nome": "Quadro pintado à mão",
-      "descricao": "Tamanho 50 x 50 cm artesanal (com texturas e corações).",
-      "valor": "R$ 41,90",
-      "imagens": [
-        "qua.jpeg"
-           
-    ]
-    },
-    {
       "id": 54,
       "nome": "Tapete de yoga",
       "descricao": "EVA Fino.",
-      "valor": "R$ 18,90",
+      "valor": "R$ 13,90",
       "imagens": [
         "tap.jpeg",
         "tap2.jpeg"
@@ -373,7 +249,7 @@
       "id": 55,
       "nome": "Cocho de madeira",
       "descricao": "Madeira maciça rústica(floreira) - 82cm de comprimento × 35 cm de largura × 28 cm de altura).",
-      "valor": "R$ 61,00",
+      "valor": "R$ 51,90",
       "imagens": [
         "cocho.jpeg",
         "cocho2.jpeg",
@@ -385,7 +261,7 @@
       "id": 56,
       "nome": "Par de descansos/porta-panelas",
       "descricao": "Material silicone cor laranja - 16cm x 16cm.",
-      "valor": "R$ 10,24",
+      "valor": "R$ 8,40",
       "imagens": [
         "par.jpeg"        
            
@@ -395,19 +271,9 @@
       "id": 57,
       "nome": "Par de descanso de panela",
       "descricao": "Madeira Articulado - 18cm x 20cm.",
-      "valor": "R$ 9,90",
+      "valor": "R$ 6,90",
       "imagens": [
         "par2.jpeg"        
-           
-    ]
-    },
-    {
-      "id": 58,
-      "nome": "Tapete passadeira",
-      "descricao": "Antiderrapante Grande - 180cm x 65cm.",
-      "valor": "R$ 29,90",
-      "imagens": [
-        "tape.jpeg"        
            
     ]
     },
@@ -424,8 +290,8 @@
     {
       "id": 60,
       "nome": "Conjunto com 4 peças",
-      "descricao": "02 fruteiras/petisqueiras maiores em formato de folha e 02 tigelas menores fibra de bambu prensada.",
-      "valor": "R$ 28,90",
+      "descricao": "02 fruteiras/petisqueiras maiores em formato de folha e 02 tigelas menores fibra de bambu prensada. Item novo",
+      "valor": "R$ 23,90",
       "imagens": [
         "frut.jpeg"        
            
@@ -435,7 +301,7 @@
       "id": 61,
       "nome": "Capacho",
       "descricao": "Fibra de Coco Gato / Tapete de Entrada Pet - 75cm x 45cm.",
-      "valor": "R$ 22,90",
+      "valor": "R$ 19,90",
       "imagens": [
         "capa.jpeg"        
            
