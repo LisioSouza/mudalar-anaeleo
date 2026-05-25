@@ -162,16 +162,6 @@ window.__ANA_FURNITURE={
       ]
     },
     {
-      "id": 80,
-      "nome": "Carteira Rosa Velho de Mão / Wallet de Couro Legítimo",
-      "descricao": "Marca Twins 17cm (comprimento) x 9,5cm (largura).",
-      "valor": "R$ 29,00",
-      "imagens": [
-        "cart.jpeg",
-        "cart2.jpeg"
-      ]
-    },
-    {
       "id": 1,
       "nome": "Porta-retratos ou moldura",
       "descricao": "MDF cru formato de gatinho.",
@@ -378,17 +368,6 @@ window.__ANA_FURNITURE={
       "imagens": [
         "prate2.jpeg",
         "prate.jpeg"
-      ]
-    },
-    {
-      "id": 49,
-      "nome": "Almofadas retangulares",
-      "descricao": "Capas em otimo estado tecido levemente brilhoso.50x38cm.",
-      "valor": "R$ 18,00 - kit com 02 - R$ 31,99 - kit com 04",
-      "imagens": [
-        "almo4.jpeg",
-        "almo5.jpeg",
-        "almo3.jpeg"
       ]
     },
     {
