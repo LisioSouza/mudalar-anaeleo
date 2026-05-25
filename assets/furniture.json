@@ -163,7 +163,18 @@
         "harry3.jpeg"
       ]
     },
-   {
+    {
+      "id": 80,
+      "nome": "Organizador / Porta-Joias em Acrílico",
+      "descricao": "Transparente com Divisórias. Comprimento: 35cm ​Largura: 22cm.",
+      "valor": "R$ 11,90",
+      "imagens": [
+        "organ.jpeg",
+        "organ2.jpeg"
+   
+      ]
+    },
+    {
       "id": 1,
       "nome": "Porta-retratos ou moldura",
       "descricao": "MDF cru formato de gatinho.",
