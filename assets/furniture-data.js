@@ -172,6 +172,35 @@ window.__ANA_FURNITURE={
       ]
     },
     {
+      "id": 81,
+      "nome": "Caixa Organizadora / Decorativa em MDF",
+      "descricao": "Pulp Fiction (17cm × 11cm).",
+      "valor": "R$ 12,90",
+      "imagens": [
+        "cx3.jpeg",
+        "cx4.jpeg"
+      ]
+    },
+    {
+      "id": 82,
+      "nome": "Porta Sabão em Pó Plástico",
+      "descricao": "Com Tampa 1,6 litros.",
+      "valor": "R$ 5,90",
+      "imagens": [
+        "sab.jpeg"
+      ]
+    },
+    {
+      "id": 83,
+      "nome": "Difusor de varetas",
+      "descricao": "Aromatizador de ambientes - madeira e vidro, acompanha varetas.",
+      "valor": "R$ 6,90",
+      "imagens": [
+        "difu.jpeg",
+        "difu2.jpeg"
+      ]
+    },
+    {
       "id": 1,
       "nome": "Porta-retratos ou moldura",
       "descricao": "MDF cru formato de gatinho.",
