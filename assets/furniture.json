@@ -1,40 +1,7 @@
 {
   "phone": "5585999539681",
   "items": [
-    {
-      "id": 84,
-      "nome": "Kit 4 Caixas Organizadoras Brancas de Plástico",
-      "descricao": "Perfeito Estado. Medidas: 25cm (comprimento) x 10cm (altura). Ideais para organizar: ​Armários de cozinha e despensa (temperos, pacotes), banheiro (maquiagens, produtos de higiene, skincare), closet / Guarda-roupa (meias, lenços, acessórios), escritório (cabos, papelaria, miudezas).",
-      "valor": "R$ 20,00",
-      "imagens": [
-        "kit1.jpeg",
-        "kit2.jpeg",
-        "kit3.jpeg"   
-    ]
-    },
-    {
-      "id": 85,
-      "nome": "Kit 3 Cestos Organizadores",
-      "descricao": "Pretos com Alça Marca Ou. Medidas: 25cm (comprimento) x 12cm (altura). Acabamento moderno. Material: Plástico resistente de alta qualidade.",
-      "valor": "R$ 18,00",
-      "imagens": [
-        "kit4.jpeg",
-        "kit5.jpeg",
-        "kit6.jpeg"   
-    ]
-    },
-    {
-      "id": 86,
-      "nome": "Cesto / Fruteira Artesanal",
-      "descricao": "Fibra Natural Boho 35cm x 35cm.",
-      "valor": "R$ 18,00",
-      "imagens": [
-        "frut1.jpeg",
-        "frut2.jpeg"
-
-    ]
-    },
-    {
+   {
       "id": 62,
       "nome": "Jogo de Tapetes/carpete para carro",
       "descricao": "Toque aveludado estilo camurça. Escrita é bordado de alta definição. Automotivos Hyundai Creta (5 Peças) - Novo/Lacrado. Compatível com modelos a partir de 2017.",
@@ -43,16 +10,6 @@
         "carpe.jpeg",
         "carpe2.jpeg",
         "carpe3.jpeg"      ]
-    },
-    {
-      "id": 63,
-      "nome": "Sapateira Organizadora",
-      "descricao": "Madeira Pinus 52cm × 45cm - 3 Andares.",
-      "valor": "R$ 22,90",
-      "imagens": [
-        "sapa.jpeg",
-        "sapa2.jpeg"
-      ]
     },
     {
       "id": 64,
@@ -75,27 +32,6 @@
       ]
     },
     {
-      "id": 66,
-      "nome": "Cabideiro Rústico Artesanal",
-      "descricao": "Madeira Maciça 50cm x 13cm - Ganchos feitos de garfos.",
-      "valor": "R$ 28,90",
-      "imagens": [
-        "cabi.jpeg"
-        
-      ]
-    },
-    {
-      "id": 67,
-      "nome": "Prato Retangular Sustentável",
-      "descricao": "Evo (25cm x 17cm) – Vermelho texturizado (composto de WPC - plástico reciclado com fibra de madeira), o que o torna super resistente, livre de BPA.",
-      "valor": "R$ 7,90",
-      "imagens": [
-        "prato.jpeg",
-        "prato2.jpeg"
-        
-      ]
-    },
-    {
       "id": 68,
       "nome": "Quadro Decorativo",
       "descricao": "Olho pra você e vejo o Mar – 28cm × 28 cm.",
@@ -114,24 +50,6 @@
       ]
     },
     {
-      "id": 70,
-      "nome": "Peso / Apoio de Porta",
-      "descricao": "Decorativo Coruja – 30 cm.",
-      "valor": "R$ 11,90",
-      "imagens": [
-        "peso.jpeg"
-      ]
-    },
-    {
-      "id": 72,
-      "nome": "Almofada Decorativa Rio de Janeiro",
-      "descricao": "Marca Fitá 34cm × 17cm.",
-      "valor": "R$ 9,90",
-      "imagens": [
-        "almof.jpeg"
-      ]
-    },
-    {
       "id": 73,
       "nome": "Almofada Decorativa temática",
       "descricao": "Ser Mãe – 37cm × 18cm.",
@@ -141,30 +59,12 @@
       ]
     },
     {
-      "id": 74,
-      "nome": "Porta-vela de vidro",
-      "descricao": "Porta-vela de vidro.",
-      "valor": "R$ 6,90",
-      "imagens": [
-        "vela.jpeg"
-      ]
-    },
-    {
       "id": 76,
       "nome": "Munhequeira / Suporte de Pulso Skyhill",
       "descricao": "Tamanho P (1 Unidade).",
       "valor": "R$ 11,90",
       "imagens": [
         "pulso.jpeg"
-      ]
-    },
-    {
-      "id": 78,
-      "nome": "Estabilizador de Tornozelo Needs - Tamanho P",
-      "descricao": "Tornozelos com circunferência de 22 a 24 cm.",
-      "valor": "R$ 24,99",
-      "imagens": [
-        "torno.jpeg"
       ]
     },
     {
@@ -179,93 +79,12 @@
       ]
     },
     {
-      "id": 80,
-      "nome": "Organizador / Porta-Joias em Acrílico",
-      "descricao": "Transparente com Divisórias. Comprimento: 35cm ​Largura: 22cm.",
-      "valor": "R$ 11,90",
-      "imagens": [
-        "organ.jpeg",
-        "organ2.jpeg"
-   
-      ]
-    },
-    {
-      "id": 81,
-      "nome": "Caixa Organizadora / Decorativa em MDF",
-      "descricao": "Pulp Fiction (17cm × 11cm).",
-      "valor": "R$ 12,90",
-      "imagens": [
-        "cx3.jpeg",
-        "cx4.jpeg"
-     ]
-    },
-    {
-      "id": 82,
-      "nome": "Porta Sabão em Pó Plástico",
-      "descricao": "Com Tampa 1,6 litros.",
-      "valor": "R$ 5,90",
-      "imagens": [
-        "sab.jpeg"
-        
-     ]
-    },
-    {
-      "id": 83,
-      "nome": "Difusor de varetas",
-      "descricao": "Aromatizador de ambientes - madeira e vidro, acompanha varetas.",
-      "valor": "R$ 6,90",
-      "imagens": [
-        "difu.jpeg",
-        "difu2.jpeg"
-        
-     ]
-    },
-    {
-      "id": 1,
-      "nome": "Porta-retratos ou moldura",
-      "descricao": "MDF cru formato de gatinho.",
-      "valor": "R$ 4,15",
-      "imagens": [
-        "portar.jpeg"
-      ]
-    },
-    {
       "id": 2,
       "nome": "Caneca Starbucks Grécia",
       "descricao": "Coleção Especial You Are Here",
       "valor": "R$ 31,90",
       "imagens": [
         "canec.jpeg"      
-      ]
-    },
-    {
-      "id": 5,
-      "nome": "Kit de Utensílios de Cozinha",
-      "descricao": "Aço Inox - 6 Peças: ​1 Faca/cortador de pizza, ​1 Espátula para bolo/tortas (Gateau), ​1 Faca para queijo (Cheese), ​1 Faca para queijos com furos (evita que o queijo grude), ​1 Escumadeira grande, ​1 Descascador de legumes - Minimo desgate.",
-      "valor": "R$ 19,90",
-      "imagens": [
-        "kit.jpeg"      
-      ]
-    },
-    {
-      "id": 9,
-      "nome": "Mesa lateral redonda",
-      "descricao": "Vidro temperado e aluminio, com regulagem de altura. Medidas: 55 diâmetro x 60 de altura. O preço de uma mesa nova é: R$ 500,00. Estamos com um super desconto. Clique nas setinhas laterais para ver todas as imagens.",
-      "valor": "R$ 190,00",
-      "imagens": [
-        "mesa-vidro2.jpeg",
-        "mesa-vidro.jpeg",
-        "mesa-vidro3.jpeg"
-      ]
-    },
-    {
-      "id": 10,
-      "nome": "Vaso de vidro",
-      "descricao": "Oval estilo aquário, 30 cm - Com ou sem rolhas.",
-      "valor": "R$ 19,90",
-      "imagens": [
-        "vas.jpeg"
-      
       ]
     },
     {
@@ -285,15 +104,6 @@
       "imagens": [
         "cax.jpeg",
         "cax2.jpeg"
-    ]
-    },
-    {
-      "id": 21,
-      "nome": "Pegador culinário",
-      "descricao": "Silicone aço inox cabo emborrachado.",
-      "valor": "R$ 8,00",
-      "imagens": [
-        "peg.jpeg"
     ]
     },
     {
@@ -414,15 +224,6 @@
       ]
     },
     {
-      "id": 47,
-      "nome": "Almofada usada",
-      "descricao": "Tecido algodao rústico, azul clara.",
-      "valor": "R$ 5,70",
-      "imagens": [
-        "almo2.jpeg"
-    ]
-    },
-    {
       "id": 48,
       "nome": "2 Prateleiras canaletas",
       "descricao": "Estilo calha, ideais para quadros e livros - 1 metro x 10cm.",
@@ -461,46 +262,6 @@
       "imagens": [
         "par.jpeg"        
     ]
-    },
-    {
-      "id": 57,
-      "nome": "Par de descanso de panela",
-      "descricao": "Madeira Articulado - 18cm x 20cm.",
-      "valor": "R$ 6,90",
-      "imagens": [
-        "par2.jpeg"        
-           
-    ]
-    },
-    {
-      "id": 59,
-      "nome": "Almofada Rolo",
-      "descricao": "Cama Casal / Rolo Turbilhão Bege Acetinado - 1,40m.",
-      "valor": "R$ 31,90",
-      "imagens": [
-        "rolo.jpeg"        
-           
-    ]
-    },
-    {
-      "id": 60,
-      "nome": "Conjunto com 4 peças",
-      "descricao": "02 fruteiras/petisqueiras maiores em formato de folha e 02 tigelas menores fibra de bambu prensada. Item novo",
-      "valor": "R$ 23,90",
-      "imagens": [
-        "frut.jpeg"        
-           
-    ]
-    },
-    {
-      "id": 61,
-      "nome": "Capacho",
-      "descricao": "Fibra de Coco Gato / Tapete de Entrada Pet - 75cm x 45cm.",
-      "valor": "R$ 19,90",
-      "imagens": [
-        "capa.jpeg"        
-           
-    ]
     }
-  ]
+    ]
 }
