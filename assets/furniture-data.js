@@ -2,6 +2,38 @@ window.__ANA_FURNITURE={
   "phone": "5585999539681",
   "items": [
     {
+      "id": 84,
+      "nome": "Kit 4 Caixas Organizadoras Brancas de Plástico",
+      "descricao": "Perfeito Estado. Medidas: 25cm (comprimento) x 10cm (altura). Ideais para organizar: ​Armários de cozinha e despensa (temperos, pacotes), banheiro (maquiagens, produtos de higiene, skincare), closet / Guarda-roupa (meias, lenços, acessórios), escritório (cabos, papelaria, miudezas).",
+      "valor": "R$ 20,00",
+      "imagens": [
+        "kit1.jpeg",
+        "kit2.jpeg",
+        "kit3.jpeg"
+      ]
+    },
+    {
+      "id": 85,
+      "nome": "Kit 3 Cestos Organizadores",
+      "descricao": "Pretos com Alça Marca Ou. Medidas: 25cm (comprimento) x 12cm (altura). Acabamento moderno. Material: Plástico resistente de alta qualidade.",
+      "valor": "R$ 18,00",
+      "imagens": [
+        "kit4.jpeg",
+        "kit5.jpeg",
+        "kit6.jpeg"
+      ]
+    },
+    {
+      "id": 86,
+      "nome": "Cesto / Fruteira Artesanal",
+      "descricao": "Fibra Natural Boho 35cm x 35cm.",
+      "valor": "R$ 18,00",
+      "imagens": [
+        "frut1.jpeg",
+        "frut2.jpeg"
+      ]
+    },
+    {
       "id": 62,
       "nome": "Jogo de Tapetes/carpete para carro",
       "descricao": "Toque aveludado estilo camurça. Escrita é bordado de alta definição. Automotivos Hyundai Creta (5 Peças) - Novo/Lacrado. Compatível com modelos a partir de 2017.",
@@ -115,30 +147,12 @@ window.__ANA_FURNITURE={
       ]
     },
     {
-      "id": 75,
-      "nome": "Mochila de Linha Tecida",
-      "descricao": "Estilo Boho / Peruana / Hippie Chic) - Algodão.",
-      "valor": "R$ 32,90",
-      "imagens": [
-        "moch.jpeg"
-      ]
-    },
-    {
       "id": 76,
       "nome": "Munhequeira / Suporte de Pulso Skyhill",
       "descricao": "Tamanho P (1 Unidade).",
       "valor": "R$ 11,90",
       "imagens": [
         "pulso.jpeg"
-      ]
-    },
-    {
-      "id": 77,
-      "nome": "Kit Touca de Cetim",
-      "descricao": "Acompanha Xuxinha - Anti Frizz Novo.",
-      "valor": "R$ 6,80",
-      "imagens": [
-        "xuxa.jpeg"
       ]
     },
     {
@@ -426,17 +440,6 @@ window.__ANA_FURNITURE={
       "imagens": [
         "tap.jpeg",
         "tap2.jpeg"
-      ]
-    },
-    {
-      "id": 55,
-      "nome": "Cocho de madeira",
-      "descricao": "Madeira maciça rústica(floreira) - 82cm de comprimento × 35 cm de largura × 28 cm de altura).",
-      "valor": "R$ 51,90",
-      "imagens": [
-        "cocho.jpeg",
-        "cocho2.jpeg",
-        "cocho3.jpeg"
       ]
     },
     {
