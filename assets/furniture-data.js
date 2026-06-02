@@ -27,7 +27,7 @@ window.__ANA_FURNITURE={
       "id": 82,
       "nome": "Caixa Organizadora preta",
       "descricao": "plástico (23cm x 8cm).",
-      "valor": "R$ 46,00",
+      "valor": "R$ 3,50",
       "imagens": [
         "cx5.jpeg",
         "cx6.jpeg"
