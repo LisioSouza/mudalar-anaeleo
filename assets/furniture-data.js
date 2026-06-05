@@ -4,13 +4,12 @@ window.__ANA_FURNITURE={
     {
       "id": 80,
       "nome": "Capa de Edredom (Duvet) Queen 100% Algodão — Collab A. Niemeyer + Casa Riachuelo",
-      "descricao": "Dimensões: 2,60 m x 2,40 m. ​Composição: 100% Algodão (tecido fresco, respirável e de toque super agradável). ​Detalhes: Fechamento prático em botões na barra inferior e textura sutil que valoriza a decoração do ambiente. ​Cor: Tom neutro / cru com lista central. OBS: Preço original desse Duvet Queen nas lojas Riachuelo era de R$ 349,90. Usado ótimo estado de conservação.",
+      "descricao": "Dimensões: 2,60 m x 2,40 m. ​Composição: 100% Algodão (tecido fresco, respirável e de toque super agradável). ​Detalhes: Fechamento prático em botões na barra inferior e textura sutil que valoriza a decoração do ambiente. ​Cor: Tom neutro / cru com lista central. OBS: Preço original desse Duvet Queen nas lojas Riachuelo era de R$ 349,90. Usado ótimo estado de conservação. Clique na setinha lateral para ver todas as imagens.",
       "valor": "R$ 98,00",
       "imagens": [
         "capa1.jpeg",
         "capa2.jpeg",
-        "capa3.jpeg",
-        "capa4.jpeg"
+        "capa3.jpeg"
       ]
     },
     {
@@ -38,15 +37,6 @@ window.__ANA_FURNITURE={
       "nome": "Deck modular de madeira",
       "descricao": "Madeira maciça (Pesada/Nobre). Placas quadradas 50cm x 50cm.",
       "valor": "R$ 38,00 - 2 unidades",
-      "imagens": [
-        "deck.jpeg"
-      ]
-    },
-    {
-      "id": 88,
-      "nome": "Kit 3 Puxadores Alça Barra Em Aço Inox Maciço Escovado",
-      "descricao": "Pesados/Alto Padrão com parafusos. Tamanho: 28,5cm.",
-      "valor": "R$ 39,00",
       "imagens": [
         "deck.jpeg"
       ]
