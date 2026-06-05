@@ -5,7 +5,7 @@ window.__ANA_FURNITURE={
       "id": 80,
       "nome": "Capa de Edredom (Duvet) Queen 100% Algodão — Collab A. Niemeyer + Casa Riachuelo",
       "descricao": "Dimensões: 2,60 m x 2,40 m. ​Composição: 100% Algodão (tecido fresco, respirável e de toque super agradável). ​Detalhes: Fechamento prático em botões na barra inferior e textura sutil que valoriza a decoração do ambiente. ​Cor: Tom neutro / cru com lista central. OBS: Preço original desse Duvet Queen nas lojas Riachuelo era de R$ 349,90. Usado ótimo estado de conservação.",
-      "valor": "R$ 100,00",
+      "valor": "R$ 98,00",
       "imagens": [
         "capa1.jpeg",
         "capa2.jpeg",
@@ -26,11 +26,89 @@ window.__ANA_FURNITURE={
     {
       "id": 82,
       "nome": "Caixa Organizadora preta",
-      "descricao": "plástico (23cm x 8cm).",
+      "descricao": "Plástico (23cm x 8cm).",
       "valor": "R$ 3,50",
       "imagens": [
         "cx5.jpeg",
         "cx6.jpeg"
+      ]
+    },
+    {
+      "id": 87,
+      "nome": "Deck modular de madeira",
+      "descricao": "Madeira maciça (Pesada/Nobre). Placas quadradas 50cm x 50cm.",
+      "valor": "R$ 38,00 - 2 unidades",
+      "imagens": [
+        "deck.jpeg"
+      ]
+    },
+    {
+      "id": 88,
+      "nome": "Kit 3 Puxadores Alça Barra Em Aço Inox Maciço Escovado",
+      "descricao": "Pesados/Alto Padrão com parafusos. Tamanho: 28,5cm.",
+      "valor": "R$ 39,00",
+      "imagens": [
+        "deck.jpeg"
+      ]
+    },
+    {
+      "id": 89,
+      "nome": "Kit 3 Puxadores Alça Barra Em Aço Inox Maciço Escovado",
+      "descricao": "Pesados/Alto Padrão com parafusos. Tamanho: 28,5cm.",
+      "valor": "R$ 39,00",
+      "imagens": [
+        "puxe1.jpeg",
+        "puxe2.jpeg",
+        "puxe3.jpeg"
+      ]
+    },
+    {
+      "id": 90,
+      "nome": "Açucareiro / Porta-Condimentos Preto",
+      "descricao": "Marca Coza-plástico resistente (BPA Free).",
+      "valor": "R$ 5,00",
+      "imagens": [
+        "acu.jpeg",
+        "acu2.jpeg",
+        "acu3.jpeg"
+      ]
+    },
+    {
+      "id": 91,
+      "nome": "Refratário / Rechaud de fina porcelana",
+      "descricao": "Marca World Collection porcelana com suporte e tampa (excelente estado, não usado). A travessa de porcelana pode ir ao micro-ondas e à lava-louças. Tamanho: 30cm x 27cm. Clique na setinha lateral para ver todas as imagens.",
+      "valor": "R$ 109,00",
+      "imagens": [
+        "refra.jpeg",
+        "refra2.jpeg",
+        "refra3.jpeg",
+        "refra4.jpeg",
+        "refra5.jpeg"
+      ]
+    },
+    {
+      "id": 92,
+      "nome": "Suporte Tucano Regulável para Prateleiras, da marca Isero",
+      "descricao": "Zamac, acabamento em Cromo Escovado. Novos, nunca usados, mas ligeiro desgaste na menor área metálica. Tamanho 11cm × 7cm, Grande. Projetado para segurar prateleiras mais robustas de até 30 cm de profundidade e abrir até 34mm para encaixar o vidro ou a madeira. Preço do Novo em loja R$ 62,00 a unidade. Clique na setinha lateral para ver todas as imagens.",
+      "valor": "A unidade R$ 11,00 - Kit com 7 valor de  R$ 72,00",
+      "imagens": [
+        "supo.jpeg",
+        "supo2.jpeg",
+        "supo3.jpeg",
+        "supo4.jpeg",
+        "supo5.jpeg"
+      ]
+    },
+    {
+      "id": 93,
+      "nome": "Cachepô Ripado alto ou floreira para embutir vasos  de plantas",
+      "descricao": "Uso como mesa. Tamanho 90cm × 47,5cm × 23cm. Usado. Clique na setinha lateral para ver todas as imagens.",
+      "valor": "R$ 35,00",
+      "imagens": [
+        "cache.jpeg",
+        "cache2.jpeg",
+        "cache3.jpeg",
+        "cache4.jpeg"
       ]
     },
     {
@@ -47,7 +125,7 @@ window.__ANA_FURNITURE={
       "id": 84,
       "nome": "Puxador com relevo floral/clássico da Zara Home Novo",
       "descricao": "Na caixa SOMENTE UM.",
-      "valor": "R$ 12,00",
+      "valor": "R$ 9,99",
       "imagens": [
         "puxador.jpeg",
         "puxador2.jpeg"
