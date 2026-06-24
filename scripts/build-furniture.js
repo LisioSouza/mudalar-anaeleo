@@ -13,7 +13,7 @@ const bundlePath = path.join(assets, 'furniture-data.js');
 
 const raw = fs.readFileSync(outPath, 'utf8');
 const data = JSON.parse(raw);
-const phone = data && data.phone ? String(data.phone) : '5585999539681';
+const phone = data && data.phone ? String(data.phone) : '5585';
 const items = Array.isArray(data.items)
   ? data.items.map((item, index) => ({
       id: item && item.id != null ? item.id : index + 1,
