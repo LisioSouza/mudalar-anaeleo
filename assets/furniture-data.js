@@ -1,5 +1,5 @@
 window.__ANA_FURNITURE={
-  "phone": "5585999539681",
+  "phone": "5585",
   "items": [
     {
       "id": 80,
